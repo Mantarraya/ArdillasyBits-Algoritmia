@@ -1,0 +1,1000 @@
+10829687481,82968748,Flavio Ezequiel,Saavedra,Heresi,15/02/1974,No habido,59360
+10095574589,09557458,Angel James,Velazco,Pacheco,24/11/1980,No habido,45883
+20534139966,53413996,Mario Eugenio,Martinez,Palza,01/09/1980,No habido,76043
+20607840597,60784059,Fabio Andres,Olortegui,Gutierrez,26/02/1983,No habido,12609
+10258091954,25809195,Alberto Aldo,Salazar,Aleman,19/06/1982,No habido,61508
+10676994601,67699460,Claudio Jameson,Fernandez,Loayza,17/01/1991,No habido,64223
+10662799539,66279953,Manuel Renato,Hernandez,Lossio,20/11/1965,No habido,48755
+10753994547,75399454,Fernando Victor,Cueva,Gutierrez,06/01/1959,Habido,31885
+10563948223,56394822,Andrés Cayetano,Garcia,Cueto,06/07/1985,No habido,57865
+10150730399,15073039,Robert Enrique,Talavera,Loayza,08/09/1960,Habido,71419
+20058752740,05875274,Luis Mateo,Mendez,Tapullima,14/12/1977,No habido,49743
+10064714883,06471488,Fausto Harold,Perez,Barreto,14/07/1958,Habido,39315
+20749880973,74988097,Luis Steve,Chunga,Peña,21/12/1968,Habido,11440
+10283489752,28348975,Miguel Alonso,Paredes,Palza,25/08/1983,No habido,99650
+10317704066,31770406,Juan Alonso,Castro,Guerra,14/07/1964,No habido,56693
+10160302780,16030278,Jefferson Martin,Mendez,Vidal,02/07/1976,No habido,87189
+10131789666,13178966,Humberto Walter,Arias,Pacheco,09/03/1959,No habido,21895
+20540008110,54000811,Flavio Edmundo,Zapata,Heresi,23/09/1988,Habido,70228
+10892372241,89237224,Eduardo Ezequiel,Mendoza,Galvez,06/07/1970,No habido,24371
+10733498116,73349811,Jorge Guillermo,Mendoza,Arce,25/05/1979,No habido,75354
+10869866616,86986661,Dennis Cayetano,Valverde,Rios,12/02/1950,Habido,76468
+20405072763,40507276,Angel Leonardo,Hernandez,Cueto,21/06/1986,No habido,14504
+10062978350,06297835,Edgar Ignacio,Garcia,Heresi,17/01/1991,No habido,70157
+10171029252,17102925,Teofilo Aldo,Velez,Rios,26/07/1953,No habido,41744
+20542683318,54268331,Fernando Horacio,Cueva,Serrano,20/08/1954,No habido,28485
+20859851684,85985168,Mario Celso,Pizarro,Luna,15/04/1981,Habido,76204
+10377308069,37730806,Emilio Calixto,Valverde,Tapia,23/09/1990,No habido,66712
+10983167340,98316734,Marco Edmundo,Farfan,Torbisco,31/04/1967,Habido,23639
+20458898170,45889817,Mijail Jean Pierre,Mundaca,Gil,07/05/1964,Habido,52077
+20212593402,21259340,Andrés Jean Pierre,Palomino,Muñoz,22/01/1963,No habido,29153
+20531999325,53199932,Humberto Augusto,Paredes,Julca,05/01/1994,No habido,14493
+20765561859,76556185,Marcelo Victor,Quispe,Brazan,25/02/1962,No habido,18191
+10682628657,68262865,Ernesto Calixto,Valverde,Benites,30/05/1954,Habido,35659
+20551439480,55143948,André Jean Pierre,Ordoñez,Heresi,31/03/1955,No habido,66554
+20560637286,56063728,Marcelo Steve,Castañeda,Alcantara,31/01/1960,No habido,22721
+10615417745,61541774,Jorge Bernardo,Ortega,Gomez,07/12/1982,Habido,99025
+10564354250,56435425,Edgar Salvador,Velez,Gomez,12/09/1981,No habido,70723
+10744718543,74471854,Edgar Andres,Martinez,Plascencia,08/01/1955,Habido,39988
+10055560111,05556011,Eusebio Hipolito,Guerrero,Azabache,26/01/1965,No habido,87129
+10790965050,79096505,Eusebio Mateo,Ortega,Yañez,28/09/1981,Habido,77483
+10917794087,91779408,André James,Pizarro,Dasso,27/09/1994,Habido,74488
+10376734953,37673495,Mario Darwin,Ordoñez,Villanueva,21/06/1976,Habido,69534
+10361315871,36131587,Miguel Hugo,Mendoza,Galvez,26/01/1984,No habido,52031
+20046358751,04635875,Erick Alejandro,Mendoza,Ruiz,30/11/1985,No habido,73055
+10184657293,18465729,Fernando Lorenzo,Arias,Arce,26/10/1978,No habido,90360
+20736838092,73683809,Emilio Celso,Pizarro,More,22/07/1956,Habido,98835
+10434602476,43460247,Edgar Orlando,Ortega,Salcedo,28/07/1954,No habido,69448
+10004691476,00469147,Manuel Jean Pierre,Quispe,Bernal,24/03/1954,No habido,20476
+10950866660,95086666,André Hipolito,Mendoza,Gutierrez,11/10/1959,Habido,17058
+10009404386,00940438,Mijail Leonardo,Ortega,Gomez,27/05/1976,No habido,81227
+20840351592,84035159,Miguel Edmundo,Quispe,Bernaola,13/05/1984,No habido,52926
+10140056592,14005659,Fausto Victor,Suarez,Castro,10/09/1962,No habido,88418
+20784953224,78495322,Juan Frank,Saavedra,Luna,13/01/1977,Habido,38313
+20605826716,60582671,Eduardo Horacio,Quispe,Zavaleta,03/07/1963,Habido,66260
+10522147310,52214731,Miguel Saulo,Fernandez,Galvez,31/05/1987,No habido,99798
+20823130823,82313082,Eusebio Darwin,Velazco,Dasso,12/07/1976,Habido,47860
+20547591888,54759188,Sebastian German,Paredes,Arce,21/08/1950,No habido,95225
+20319187125,31918712,Cesar Aldo,Olortegui,Galvez,10/09/1988,No habido,21194
+20403939629,40393962,Edgar Pedro,Fernandez,Palza,18/12/1965,No habido,27490
+20077663961,07766396,Jefferson Orlando,Porras,Seminario,30/03/1976,No habido,14864
+10281823105,28182310,Flavio Frank,Palomino,Peña,12/07/1957,Habido,63986
+10516474750,51647475,Mario Yolfer,Porras,Cabrera,30/04/1978,Habido,59752
+10199941977,19994197,Robert Augusto,Salazar,Tasso,19/06/1965,No habido,76029
+10361022541,36102254,Erick Hugo,Muente,Barreto,10/04/1978,No habido,82133
+10186590025,18659002,Mijail Andres,Chunga,Julca,31/06/1969,No habido,36342
+20937205074,93720507,Flavio Cayetano,Castañeda,Vidal,01/04/1954,Habido,63817
+10698503468,69850346,Erick Bernardo,Olortegui,Alva,03/01/1979,Habido,14745
+20425205479,42520547,Sebastian Guillermo,Martinez,Torbisco,20/02/1972,No habido,38652
+20204836264,20483626,Fausto Ricardo,Cueva,Guzman,06/08/1988,Habido,58912
+20333005025,33300502,Daniel Bernardo,Ortega,Vidal,01/02/1989,Habido,28895
+20653854443,65385444,Emilio Jameson,Palomino,Zubiate,10/10/1980,No habido,53201
+10763901440,76390144,Juan Augusto,Campos,Alcantara,22/06/1992,No habido,52270
+10348449214,34844921,David Romulo,Arevalo,Aleman,30/11/1988,No habido,29221
+20114738434,11473843,Luis Leonardo,Campos,Bernal,11/10/1986,No habido,11646
+20380071928,38007192,Erick Sergio,Castañeda,Brazan,29/03/1972,Habido,21944
+10124325650,12432565,Mijail Jesus,Guerrero,Loayza,28/01/1968,Habido,93665
+20166460652,16646065,Teofilo Fabian,Ortega,Bonilla,07/10/1979,No habido,28797
+20909433317,90943331,Edgar Hugo,Palomino,Rosenthal,01/08/1950,No habido,99741
+10066374170,06637417,Jorge Alejandro,Castañeda,Valderrama,17/09/1952,No habido,86614
+20067571204,06757120,Waldo Ignacio,Farfan,Ruiz,29/08/1992,No habido,55011
+10161807603,16180760,Teofilo Ezequiel,Talavera,Rosenthal,12/11/1979,No habido,89140
+20076247038,07624703,Eusebio Frank,Saavedra,Polo,16/07/1971,Habido,69465
+10554581608,55458160,Luis Salvador,Olortegui,Plascencia,09/05/1953,Habido,41995
+20602551943,60255194,Dante Calixto,Hernandez,Guerra,31/10/1989,Habido,25837
+20745010521,74501052,Dante Ignacio,Saavedra,Tapia,03/03/1973,Habido,74698
+10322401043,32240104,David Sergio,Farfan,Julca,14/10/1970,No habido,11458
+20806463764,80646376,Flavio Horacio,Perez,Gomez,24/04/1989,No habido,13073
+10648538822,64853882,Cesar Eugenio,Farfan,Nazario,15/03/1986,Habido,61672
+10054470959,05447095,Sebastian Cayetano,Guerrero,Rios,01/06/1956,No habido,76213
+10356368923,35636892,Humberto Enrique,Mendoza,Villanueva,07/03/1971,No habido,59435
+20155308056,15530805,Sebastian Lorenzo,Zapata,Queirolo,20/01/1979,No habido,21086
+20771008502,77100850,Mijail Celso,Ordoñez,Rondon,21/03/1953,No habido,68474
+20228984191,22898419,Jefferson Alejandro,Salazar,Azabache,27/11/1990,Habido,63300
+10115738352,11573835,Carlos Ricardo,Salazar,Guerra,12/06/1973,Habido,73466
+20673085005,67308500,Mijail Ezequiel,Castañeda,Salcedo,29/11/1958,No habido,62991
+20350687994,35068799,Felipe Jean Pierre,Castro,Cabrera,23/08/1975,No habido,55530
+20092249734,09224973,Waldo Aldo,Campos,Vallejos,05/11/1987,No habido,41913
+10265678381,26567838,Eduardo Elvis,Talavera,Muñoz,07/02/1988,Habido,86322
+10661305591,66130559,Christian Celso,Paredes,Ruiz,19/02/1973,Habido,88226
+10490911014,49091101,Erick Calixto,Fernandez,Muñoz,04/07/1956,Habido,93154
+10654562531,65456253,Ernesto Steve,Porras,Alcantara,22/02/1976,No habido,25787
+20036838863,03683886,Felipe Eugenio,Fernandez,Tasso,09/06/1956,Habido,53039
+10554087763,55408776,Christian Aldo,Paredes,Brazan,29/05/1953,No habido,79589
+10939835981,93983598,Felipe Darwin,Cueva,Ruiz,07/11/1990,Habido,62292
+10987474996,98747499,Mario Calixto,Arevalo,Bonilla,19/08/1957,No habido,39937
+10250516483,25051648,Emilio Renato,Fernandez,Bustamante,06/07/1979,Habido,47920
+10895393007,89539300,Jorge Aldo,Paredes,Nazario,30/06/1969,No habido,80181
+10401069129,40106912,Christian Salvador,Arias,Zavaleta,22/01/1985,No habido,99866
+10795656937,79565693,Marco Saulo,Mendoza,Peña,19/11/1961,Habido,72151
+20595095317,59509531,Jorge Homero,Cordova,Rosenthal,03/10/1955,Habido,73824
+20986538474,98653847,Juan Cristobal,Olortegui,Queirolo,27/11/1972,No habido,15878
+10142781449,14278144,Fabio Hugo,Perez,Luna,25/05/1974,No habido,55579
+10978929590,97892959,Fausto Bruno,Cordova,Peña,08/03/1958,No habido,44086
+20703850256,70385025,Dennis Cristobal,Fernandez,Peña,18/04/1956,No habido,21746
+10330513214,33051321,Jaime Pedro,Castañeda,Palza,09/03/1971,No habido,94875
+10564548481,56454848,Dante German,Palomino,Rojas,14/11/1955,No habido,76543
+10185105110,18510511,André Bernardo,Olortegui,Alva,28/08/1956,Habido,68463
+20048631389,04863138,Jefferson Renato,Talavera,Serrano,11/04/1958,Habido,12560
+20679490795,67949079,Fernando Saulo,Suarez,Zubiate,03/03/1976,No habido,23646
+20009863382,00986338,Sebastian Frank,Quispe,Salcedo,01/12/1979,Habido,21438
+20722304749,72230474,Cesar Ignacio,Fernandez,Guzman,21/01/1993,No habido,88873
+10233947521,23394752,Angel Jesus,Arias,Ccotto,22/10/1990,No habido,26074
+20184841948,18484194,Juan Homero,Cueva,Heresi,22/11/1958,Habido,63768
+20553551806,55355180,Eusebio Salvador,Arias,Azabache,04/09/1976,Habido,54421
+20937402319,93740231,Mario Victor,Salazar,Alcantara,29/05/1986,No habido,22085
+10024564421,02456442,Andrés Aldo,Campos,Chavez,21/01/1958,Habido,80055
+20599314858,59931485,Sebastian Harold,Velez,Muñoz,22/05/1982,Habido,40302
+10573255701,57325570,André Darwin,Arevalo,Valderrama,23/08/1970,Habido,57008
+20554683758,55468375,Dante James,Castañeda,Bonilla,22/12/1984,Habido,50856
+20558266643,55826664,Christian German,Castañeda,Arce,20/06/1994,Habido,69145
+10291101458,29110145,Daniel Edmundo,Castro,Vargas,02/12/1991,Habido,19377
+10430914645,43091464,Marcelo Alonso,Perez,Vidal,22/07/1970,No habido,56124
+10508918427,50891842,Cesar Horacio,Mendez,Vargas,23/01/1991,Habido,21448
+20523959514,52395951,Teofilo Mateo,Cordova,Tapullima,09/02/1964,Habido,53985
+20694742576,69474257,Marco Martin,Porras,Serrano,15/06/1982,No habido,87463
+10483178784,48317878,Jorge Jesus,Martinez,Bernal,01/08/1990,No habido,29581
+10752565526,75256552,Humberto Celso,Valverde,Queirolo,13/03/1983,Habido,30541
+10340975710,34097571,Mario Augusto,Cordova,Arce,31/11/1952,No habido,34636
+20179982864,17998286,Fernando Homero,Paredes,Bustamante,11/11/1982,No habido,74612
+10089640555,08964055,Ernesto Yolfer,Campos,Guzman,15/08/1980,Habido,83798
+10486172434,48617243,Christian Hugo,Chunga,Zubiate,16/01/1957,No habido,41135
+10349977302,34997730,Jefferson Ignacio,Quispe,Torbisco,22/11/1953,Habido,87930
+10993652723,99365272,Fernando Cristobal,Velazco,Gomez,13/12/1958,Habido,96005
+10614222888,61422288,Emilio Bruno,Martinez,Del Carpio,20/12/1951,Habido,13605
+20063819849,06381984,Fernando Frank,Arevalo,Vargas,24/09/1993,No habido,79101
+10604951298,60495129,Claudio Cayetano,Farfan,Azabache,24/09/1991,Habido,67189
+20104199183,10419918,Alberto Eugenio,Chunga,Muñoz,03/07/1992,Habido,33617
+20781443455,78144345,Flavio Gilberto,Cordova,Villanueva,31/11/1974,No habido,64303
+10768673202,76867320,Eduardo Steve,Salazar,Guerra,08/08/1957,Habido,64391
+10744077539,74407753,Eusebio Frank,Chunga,Ruiz,13/07/1953,Habido,77290
+20261644100,26164410,Fausto Alonso,Diaz,Alcantara,13/06/1957,Habido,53915
+10015564932,01556493,Andrés Eugenio,Cordova,Guzman,28/03/1953,No habido,74340
+20783266287,78326628,Humberto Calixto,Mundaca,Guerra,31/04/1959,No habido,76491
+10789485644,78948564,Dennis Pedro,Talavera,Bernaola,04/12/1979,No habido,61643
+20079674088,07967408,Emilio Cristobal,Olortegui,Alva,21/07/1962,Habido,58823
+20706401686,70640168,Teofilo Calixto,Cordova,Azabache,02/06/1979,No habido,64162
+10363443212,36344321,Edgar Horacio,Ordoñez,Benites,08/06/1960,Habido,36461
+10734546279,73454627,Marco Renato,Ordoñez,Bustamante,20/10/1973,No habido,30436
+10342692824,34269282,David Fulgencio,Castañeda,Barreto,10/05/1951,Habido,37235
+10272498234,27249823,Eduardo Walter,Valverde,Tasso,08/02/1993,Habido,61050
+10514438403,51443840,Flavio Bruno,Ordoñez,Del Carpio,18/07/1987,No habido,88035
+10574038693,57403869,Felipe Ignacio,Farfan,Plascencia,14/11/1962,No habido,15542
+10315519464,31551946,Jefferson Walter,Castañeda,Luna,05/10/1975,No habido,23484
+20686328299,68632829,Cesar Sergio,Olortegui,Gutierrez,25/11/1965,Habido,51793
+20792052334,79205233,Alberto Fulgencio,Zapata,Arce,22/02/1968,No habido,52600
+20003450906,00345090,Miguel Augusto,Salazar,Luna,04/10/1964,No habido,49431
+10508566720,50856672,Mario James,Farfan,Ruiz,21/12/1991,Habido,84643
+20766275019,76627501,Alberto German,Velazco,Ccotto,19/04/1990,Habido,50949
+10062622632,06262263,Robert Mateo,Paredes,Valderrama,09/12/1991,No habido,50514
+20697454681,69745468,Emilio Horacio,Velazco,Alcantara,01/10/1983,No habido,13499
+10527180412,52718041,Fausto Bernardo,Ortega,More,03/03/1983,Habido,77563
+20683618611,68361861,Mijail Walter,Cueva,Tapullima,11/09/1971,No habido,99138
+10003492169,00349216,Jorge Ricardo,Ortega,Del Carpio,26/11/1959,Habido,54318
+10269110680,26911068,Eusebio Steve,Pizarro,Ruiz,02/12/1964,Habido,75593
+10119531782,11953178,Dante Saulo,Campos,Alva,28/08/1963,Habido,66051
+20174262418,17426241,Claudio Andres,Tenorio,Queirolo,17/03/1976,No habido,69160
+20038698095,03869809,Fausto Walter,Cordova,Barreto,22/12/1993,No habido,10431
+10619062157,61906215,Francisco Leonardo,Arevalo,Cueto,17/05/1957,Habido,69272
+20642056768,64205676,Manuel Renato,Castañeda,Bonilla,18/06/1961,No habido,77684
+20112048223,11204822,Angel Guillermo,Olortegui,Guerra,23/10/1976,Habido,76612
+20411771775,41177177,Manuel Cristobal,Quispe,Rios,19/10/1965,Habido,36425
+20632213432,63221343,Fabio Martin,Porras,Bernaola,16/11/1954,Habido,45025
+10932489064,93248906,Daniel Jean Carlo,Arias,Tapullima,12/12/1950,Habido,79299
+10984468138,98446813,Juan Alejandro,Martinez,Bermudez,10/12/1954,Habido,89133
+10586860547,58686054,Mijail Gilberto,Cueva,Aleman,17/03/1994,Habido,39960
+10054656986,05465698,Jefferson Harold,Perez,Benites,27/06/1993,No habido,88820
+20312348218,31234821,Daniel Victor,Talavera,Heresi,08/04/1980,Habido,51751
+20611469347,61146934,Waldo Edmundo,Chunga,Tasso,22/03/1977,No habido,97950
+20765479666,76547966,Carlos Bernardo,Arias,Benites,13/08/1962,No habido,47341
+20549867710,54986771,Andrés Nicolas,Ortega,Chavez,12/11/1952,Habido,83480
+20008309937,00830993,Jaime Mateo,Porras,Bermudez,01/11/1976,No habido,51774
+20734414546,73441454,Jefferson Salvador,Castañeda,Brazan,23/04/1955,No habido,84587
+20384576899,38457689,Mijail Hugo,Suarez,Gutierrez,13/05/1993,Habido,71335
+10254690610,25469061,Erick Bruno,Suarez,Polo,12/10/1953,No habido,41893
+20126941476,12694147,Marco Elvis,Garcia,Tapia,11/08/1991,Habido,50442
+20048065597,04806559,Waldo Horacio,Cueva,Chavez,04/10/1967,No habido,54390
+20117893254,11789325,Emilio Bernardo,Mendoza,Ruiz,18/09/1961,No habido,51914
+10445917224,44591722,Erick Darwin,Quispe,Guerra,09/03/1980,No habido,69595
+10197862028,19786202,Manuel Harold,Farfan,Castro,22/07/1957,Habido,45107
+20486187300,48618730,Dennis Bruno,Campos,Castro,24/03/1973,Habido,27455
+10520726799,52072679,Flavio Romulo,Pizarro,Chavez,28/07/1982,No habido,17580
+10360459704,36045970,Alberto Renato,Tenorio,Loayza,24/08/1956,No habido,28604
+20855083620,85508362,Luis Aldo,Castro,Palza,01/08/1993,Habido,50635
+20329880522,32988052,Eduardo Edmundo,Hernandez,Chavez,03/11/1980,Habido,60886
+10675014629,67501462,Felipe Ricardo,Garcia,Molina,25/11/1957,Habido,71574
+20723593785,72359378,Cesar Yolfer,Velazco,Alva,10/12/1988,No habido,33036
+20137348982,13734898,Mario Guillermo,Chunga,Loayza,27/09/1991,No habido,83751
+20357641492,35764149,André Ignacio,Castro,Benites,26/08/1991,No habido,42979
+20285340005,28534000,Emilio Augusto,Castro,Bermudez,21/12/1963,Habido,48593
+20239489139,23948913,Fernando Martin,Mendoza,Salcedo,13/10/1966,No habido,20468
+10037301543,03730154,Flavio Celso,Velez,Dasso,26/03/1967,No habido,64594
+10779140871,77914087,Luis Alonso,Velazco,Bermudez,28/03/1980,Habido,61817
+20823977250,82397725,Alberto Homero,Talavera,Tapullima,06/03/1961,Habido,49073
+20316804561,31680456,Edgar Ricardo,Arias,Tapullima,01/03/1980,No habido,46426
+20067417639,06741763,Dennis Enrique,Valverde,Zavaleta,28/12/1969,Habido,59559
+20721789658,72178965,David Bernardo,Chunga,Guzman,23/09/1966,Habido,72785
+10658924146,65892414,Dante Martin,Ordoñez,Luna,02/08/1969,No habido,37483
+20348388521,34838852,Teofilo Edmundo,Martinez,Yañez,31/11/1971,Habido,47022
+10111306601,11130660,Daniel Victor,Arias,Vidal,08/06/1956,Habido,99488
+10579750027,57975002,Marco Harold,Farfan,Julca,08/06/1955,No habido,11606
+10301258685,30125868,Carlos Alejandro,Garcia,Brazan,18/04/1988,No habido,65338
+20391478578,39147857,Claudio Saulo,Salazar,Galvez,26/11/1963,No habido,31856
+20458512505,45851250,Marcelo Ignacio,Castañeda,Rojas,07/11/1976,Habido,82119
+20740278880,74027888,Flavio Edmundo,Ortega,Barreto,09/04/1959,Habido,99512
+20039424183,03942418,Teofilo Lorenzo,Ortega,Bonilla,26/07/1984,No habido,72165
+10051259106,05125910,Claudio Rolando,Mendez,Guzman,29/07/1985,No habido,42276
+20645945526,64594552,Marco Orlando,Muente,Tasso,31/12/1970,Habido,94828
+10347565450,34756545,Eusebio Jesus,Quispe,Gil,30/04/1978,Habido,39545
+20734640555,73464055,Humberto Victor,Velazco,Cabrera,22/06/1981,No habido,65888
+20408633715,40863371,Sebastian Hipolito,Cueva,More,18/12/1960,Habido,12867
+20060616126,06061612,Edgar Hugo,Castro,Aleman,08/04/1983,No habido,13867
+20984559211,98455921,Emilio Cayetano,Pizarro,Peña,30/12/1962,No habido,19518
+20842427457,84242745,Eusebio Lorenzo,Farfan,Aleman,27/12/1978,Habido,63696
+10981627041,98162704,Fabio Cristobal,Cordova,Bustamante,04/04/1968,No habido,79367
+20552156053,55215605,Marco Alonso,Velazco,Aleman,26/03/1988,No habido,87524
+20762907558,76290755,Jaime Nicolas,Cordova,Peña,04/04/1971,Habido,89955
+10385951775,38595177,Humberto Orlando,Mundaca,Galvez,07/01/1951,No habido,44749
+20795421216,79542121,Jaime Fabian,Ortega,Serrano,18/09/1968,No habido,50766
+10848226586,84822658,Sebastian Eugenio,Fernandez,Tapullima,08/10/1951,Habido,82195
+10726295130,72629513,Eusebio Rolando,Fernandez,Arce,19/06/1977,No habido,55959
+10620848590,62084859,Teofilo Jean Pierre,Mundaca,Plascencia,02/01/1980,Habido,53512
+10232059468,23205946,Dante Andres,Garcia,More,04/08/1951,Habido,55644
+10304786238,30478623,Dennis Harold,Palomino,More,17/10/1994,Habido,70125
+10460580915,46058091,Fabio Enrique,Salazar,Polo,10/02/1990,Habido,13167
+20298254066,29825406,Fernando Salvador,Paredes,Gomez,02/10/1963,No habido,56760
+10800885847,80088584,Luis Martin,Chunga,Zavaleta,24/05/1951,No habido,27512
+20509582028,50958202,André Gilberto,Garcia,Villanueva,16/03/1974,No habido,30159
+10604669466,60466946,Waldo Jameson,Hernandez,Guerra,19/12/1985,Habido,62287
+20437648938,43764893,Felipe Pedro,Castañeda,Alva,17/10/1962,Habido,72867
+10440253822,44025382,Jefferson Nicolas,Salazar,Seminario,11/03/1987,Habido,35769
+10876792761,87679276,Dante Yolfer,Fernandez,Alcantara,05/05/1967,No habido,10762
+20826739352,82673935,Jaime Homero,Olortegui,Gutierrez,10/08/1985,No habido,44446
+20192610715,19261071,Carlos Fabian,Suarez,Luna,04/10/1967,Habido,12210
+10624368265,62436826,Alberto Homero,Garcia,Molina,03/11/1962,No habido,92975
+20784919076,78491907,Emilio Walter,Mendez,Benites,27/04/1980,Habido,76145
+10830776078,83077607,Luis Ezequiel,Velez,Lossio,19/02/1954,No habido,17959
+20891287692,89128769,Cesar Victor,Ortega,Torbisco,22/08/1986,Habido,40916
+10472060930,47206093,Alberto Walter,Arevalo,Bonilla,02/06/1952,Habido,30948
+20493823858,49382385,Mijail Fulgencio,Farfan,Polo,08/09/1960,No habido,56619
+20790550375,79055037,Waldo Guillermo,Campos,Tapia,12/02/1975,No habido,42042
+20369920659,36992065,Dante Frank,Chunga,Barreto,21/01/1962,No habido,69812
+20488783541,48878354,Mario Sergio,Arevalo,Tapia,19/06/1951,Habido,34475
+20028078540,02807854,Fernando Edmundo,Talavera,Azabache,25/10/1980,Habido,51498
+10338119090,33811909,André Jameson,Chunga,Gutierrez,19/01/1980,No habido,49235
+10952223520,95222352,Eusebio Jean Pierre,Quispe,Rios,31/02/1963,Habido,94436
+20420564703,42056470,Robert Ignacio,Diaz,Rios,23/05/1981,Habido,57437
+10824130033,82413003,Cesar Steve,Chunga,Valderrama,15/11/1982,Habido,31182
+20048978944,04897894,Alberto Rolando,Ordoñez,Chavez,26/02/1985,Habido,50488
+20889647300,88964730,Alberto Hipolito,Paredes,Cueto,21/09/1979,Habido,30922
+10463466057,46346605,Flavio Frank,Fernandez,Bustamante,25/04/1973,No habido,60965
+20316851453,31685145,Jose Augusto,Hernandez,Vallejos,26/07/1990,No habido,81967
+10064072828,06407282,Felipe Yolfer,Talavera,Bernal,14/06/1990,No habido,53868
+10263151841,26315184,Dennis Victor,Quispe,Guerra,11/03/1982,Habido,24502
+10827126318,82712631,Mario Darwin,Arias,Nazario,02/12/1963,Habido,56876
+20878889292,87888929,André Edmundo,Velazco,Cueto,24/09/1984,No habido,70080
+10693958504,69395850,Edgar Victor,Cordova,Luna,14/09/1994,Habido,20366
+20787390526,78739052,Alberto Hugo,Ortega,Polo,07/05/1964,Habido,88681
+10854415145,85441514,Jaime Victor,Garcia,Seminario,18/06/1969,Habido,45259
+20556196755,55619675,Alberto Steve,Chunga,Brazan,28/02/1975,Habido,71204
+20734005561,73400556,Jefferson Cristobal,Hernandez,Alcantara,30/04/1960,Habido,55861
+20539471988,53947198,Andrés Homero,Mendoza,Brazan,02/12/1951,Habido,83027
+20769706162,76970616,Juan Steve,Ortega,Guerra,03/01/1958,No habido,17871
+10934207397,93420739,Angel Guillermo,Mundaca,Bernal,31/06/1950,Habido,97002
+20998383762,99838376,Christian Orlando,Muente,Tapullima,23/02/1988,No habido,59531
+10348255349,34825534,Humberto Fabian,Velez,Polo,22/04/1957,Habido,73169
+10699970706,69997070,Manuel Aldo,Quispe,Barreto,26/12/1983,Habido,52311
+10049546538,04954653,Ernesto Mateo,Suarez,Villanueva,23/08/1991,No habido,39006
+10032790975,03279097,Miguel Augusto,Arias,Benites,20/11/1964,Habido,45169
+20593909431,59390943,Teofilo Augusto,Cueva,Salcedo,28/06/1979,Habido,20735
+10884866137,88486613,Robert Renato,Campos,Galvez,02/01/1987,Habido,87067
+20828432446,82843244,Robert Steve,Salazar,Queirolo,06/01/1989,No habido,35083
+20238007245,23800724,Cesar Renato,Olortegui,Vallejos,23/03/1954,Habido,73322
+10939951420,93995142,Felipe German,Fernandez,Benites,18/02/1970,Habido,28005
+20662064579,66206457,Emilio Fulgencio,Velazco,Arce,19/10/1968,Habido,89858
+10972567795,97256779,Jorge Ignacio,Hernandez,Bernal,14/09/1985,Habido,15531
+10348891512,34889151,Marcelo Romulo,Suarez,Guerra,16/08/1956,No habido,21946
+10205547673,20554767,Alberto Calixto,Mendez,Brazan,17/09/1970,Habido,41943
+20109678293,10967829,Dante Salvador,Palomino,Arce,16/01/1991,Habido,23357
+20851770013,85177001,Claudio Salvador,Velez,Loayza,05/05/1975,No habido,56633
+10859324966,85932496,Fausto German,Mendez,Muñoz,28/08/1967,No habido,81735
+20079556877,07955687,Jefferson Guillermo,Arias,Tasso,28/05/1956,No habido,10359
+20500270135,50027013,Miguel Ignacio,Velez,Bernal,01/08/1984,Habido,77816
+10714290407,71429040,Christian Celso,Perez,Torbisco,21/06/1955,No habido,33816
+20038971796,03897179,Eusebio Enrique,Garcia,Tapia,29/06/1980,Habido,53818
+20384293173,38429317,Jaime Horacio,Arevalo,Tasso,12/03/1980,Habido,94476
+10736651729,73665172,Cesar Renato,Zapata,Seminario,15/09/1987,No habido,17230
+10058718866,05871886,Eduardo Cristobal,Hernandez,Zubiate,26/07/1960,Habido,86335
+10348455893,34845589,Ernesto Cayetano,Quispe,Gutierrez,01/04/1978,Habido,96226
+20596869356,59686935,Angel Steve,Castañeda,Guzman,21/03/1964,Habido,66244
+20338520714,33852071,Fernando German,Garcia,Vargas,18/07/1994,No habido,62481
+20689193612,68919361,Humberto Jean Pierre,Olortegui,Luna,22/09/1956,Habido,45686
+20095063164,09506316,Teofilo Gilberto,Olortegui,Rosenthal,30/03/1961,No habido,61613
+10460548207,46054820,Luis Frank,Diaz,Tapullima,26/12/1991,No habido,76544
+20763753240,76375324,Christian Steve,Quispe,Del Carpio,20/11/1963,Habido,32567
+10912652123,91265212,Ernesto Harold,Quispe,Vargas,09/11/1994,Habido,52556
+10852769142,85276914,André Mateo,Olortegui,Aleman,16/10/1961,Habido,20842
+20237669023,23766902,Sebastian Fabian,Cordova,Molina,26/09/1978,No habido,33249
+10257094157,25709415,Ernesto Guillermo,Paredes,Rios,14/12/1985,No habido,95575
+20909527480,90952748,Juan Romulo,Arias,Rojas,08/06/1953,Habido,98291
+20594883662,59488366,Carlos Renato,Mendez,Castro,19/10/1991,Habido,68789
+10492587989,49258798,Dante Jameson,Muente,Muñoz,18/06/1979,Habido,66128
+10213226144,21322614,David Augusto,Fernandez,Zubiate,11/04/1963,Habido,83902
+20662108207,66210820,Marco Ignacio,Suarez,Aleman,04/02/1981,No habido,56388
+20862683337,86268333,Christian Horacio,Martinez,Bermudez,23/02/1958,No habido,35285
+20022216187,02221618,Andrés Martin,Tenorio,Cueto,10/03/1961,No habido,24967
+20143567710,14356771,Angel Alonso,Quispe,Lossio,26/07/1981,No habido,45173
+10416192334,41619233,Eduardo Renato,Talavera,Valderrama,11/03/1966,No habido,91574
+10507671772,50767177,Emilio Pedro,Martinez,Cabrera,07/05/1962,No habido,40091
+20816603785,81660378,Humberto Harold,Guerrero,Alcantara,19/03/1970,No habido,29105
+20275472638,27547263,Francisco Alejandro,Castañeda,Muñoz,27/02/1988,No habido,22474
+10163382031,16338203,Fausto Hipolito,Velazco,Tapullima,08/10/1993,No habido,11038
+20368804897,36880489,Humberto Celso,Perez,Bernaola,27/07/1989,Habido,32257
+20587875822,58787582,Dante Lorenzo,Arias,Serrano,22/09/1985,Habido,80534
+10620259883,62025988,Dennis Celso,Garcia,Aleman,11/09/1964,No habido,56510
+10463191670,46319167,David Guillermo,Velez,Vidal,10/03/1982,Habido,26621
+20806290691,80629069,Daniel Darwin,Guerrero,Plascencia,02/02/1964,Habido,18916
+20965612398,96561239,Jorge Romulo,Ortega,Muñoz,26/10/1969,Habido,48378
+20614136942,61413694,Jaime Yolfer,Cueva,Chavez,31/12/1993,Habido,83338
+10056363232,05636323,Christian Salvador,Perez,Villanueva,29/04/1950,No habido,36112
+20292576775,29257677,Juan Mateo,Porras,Del Carpio,15/07/1967,No habido,71777
+10377316266,37731626,Dante Jean Pierre,Tenorio,Vallejos,28/08/1973,Habido,84828
+20813382079,81338207,Christian Homero,Chunga,Heresi,06/07/1956,No habido,47248
+10753536763,75353676,Mijail James,Mendoza,Molina,06/05/1958,Habido,98913
+20211672827,21167282,Fabio Andres,Chunga,Villanueva,03/02/1955,Habido,66271
+20636584350,63658435,Jaime Saulo,Valverde,Nazario,20/10/1992,Habido,81858
+20809285122,80928512,Sebastian Pedro,Palomino,Molina,31/08/1962,No habido,76015
+10055596525,05559652,Mijail Guillermo,Campos,Zavaleta,13/07/1956,No habido,94114
+20187004842,18700484,Carlos Nicolas,Cueva,Tapullima,20/06/1963,No habido,18740
+10653165588,65316558,Erick Martin,Palomino,Bernaola,30/12/1956,Habido,17314
+10343260265,34326026,Humberto Fabian,Arevalo,Rosenthal,02/02/1971,No habido,32318
+20577057663,57705766,Marco Andres,Ortega,Ruiz,01/09/1981,Habido,20404
+10475397385,47539738,Felipe Leonardo,Velazco,Zavaleta,21/05/1971,Habido,29861
+10603581412,60358141,Manuel Bruno,Mundaca,Tasso,29/12/1992,No habido,54502
+20380290012,38029001,Dennis Sergio,Castro,Plascencia,31/10/1956,Habido,53951
+20843210783,84321078,Mijail Cristobal,Pizarro,Bustamante,21/10/1976,Habido,98007
+20929021018,92902101,Jaime Romulo,Cueva,Ruiz,17/11/1979,No habido,86271
+20158560400,15856040,Mario Rolando,Fernandez,Heresi,30/01/1978,No habido,19165
+10489975217,48997521,André Hipolito,Muente,Guerra,12/05/1987,No habido,43267
+20038548256,03854825,Emilio Pedro,Diaz,Heresi,02/08/1964,Habido,97737
+20677668855,67766885,Felipe Bernardo,Saavedra,Brazan,28/05/1967,No habido,14628
+10233518753,23351875,Waldo Ezequiel,Saavedra,Ccotto,12/04/1953,Habido,88890
+10419738510,41973851,Eusebio Aldo,Palomino,Tapullima,26/12/1971,No habido,17580
+20989743922,98974392,Jorge Hipolito,Porras,Lossio,08/08/1966,Habido,82512
+20583151446,58315144,Jefferson Enrique,Farfan,Polo,11/05/1988,No habido,18504
+10932153534,93215353,Humberto Eugenio,Mundaca,Brazan,07/09/1963,Habido,20125
+10677206887,67720688,Angel Renato,Mendez,Ccotto,13/10/1961,Habido,70779
+20785098117,78509811,Eduardo Harold,Paredes,Heresi,09/05/1965,No habido,35761
+20809414976,80941497,Jaime Ricardo,Porras,Brazan,14/12/1975,No habido,98598
+20653443538,65344353,Eusebio Alejandro,Castro,Bernaola,09/02/1957,Habido,33972
+20232830659,23283065,Cesar Leonardo,Paredes,Ccotto,09/06/1972,No habido,51084
+20136292374,13629237,Jaime Lorenzo,Suarez,Salcedo,07/08/1976,Habido,92142
+10258714735,25871473,Luis Salvador,Paredes,Rios,05/06/1961,No habido,83160
+20715188676,71518867,Edgar Celso,Garcia,Arce,01/12/1964,No habido,13959
+20415076101,41507610,Jaime Sergio,Arevalo,Aleman,06/01/1950,Habido,62136
+20028809002,02880900,Humberto Hipolito,Ordoñez,Bermudez,06/10/1985,No habido,78428
+20433178014,43317801,Claudio Romulo,Porras,Rios,04/02/1991,Habido,84773
+20253848272,25384827,Andrés Alejandro,Tenorio,Cabrera,09/06/1966,Habido,71280
+20960065113,96006511,Flavio Harold,Diaz,Serrano,30/12/1986,Habido,25988
+20918180781,91818078,Andrés Sergio,Porras,Ruiz,19/11/1981,Habido,23759
+10774083555,77408355,Alberto Aldo,Cueva,Castro,20/09/1987,Habido,13418
+20306883091,30688309,Mijail Fulgencio,Martinez,Brazan,21/10/1983,No habido,40218
+20820967024,82096702,Jaime Elvis,Zapata,Bernal,04/06/1985,No habido,99166
+20922453939,92245393,Jose Fulgencio,Olortegui,Heresi,23/05/1991,Habido,67011
+10644379618,64437961,Claudio Walter,Guerrero,Heresi,03/08/1952,Habido,79044
+20579796527,57979652,Dante Pedro,Farfan,Bernal,07/01/1994,Habido,44606
+20448099890,44809989,Jose Steve,Fernandez,Plascencia,20/03/1977,No habido,62542
+10142920804,14292080,Dennis Pedro,Campos,Seminario,04/09/1951,Habido,32234
+20286356072,28635607,Emilio Cristobal,Hernandez,Guzman,13/01/1960,No habido,89914
+10214288379,21428837,Dennis Cristobal,Suarez,Cabrera,14/05/1959,No habido,35090
+10309281961,30928196,Fernando German,Quispe,Galvez,30/10/1973,Habido,68475
+10682178027,68217802,Humberto Harold,Arevalo,Brazan,09/07/1956,Habido,20836
+20538572187,53857218,Jose Pedro,Mendoza,Rojas,31/11/1994,No habido,18995
+10067509954,06750995,Daniel Enrique,Ortega,More,09/10/1972,Habido,16153
+10140933574,14093357,Felipe Jesus,Garcia,Peña,25/08/1952,No habido,37818
+20898189055,89818905,Sebastian Enrique,Perez,Tasso,08/08/1991,Habido,40138
+20853476690,85347669,Marcelo Guillermo,Castañeda,Nazario,05/01/1984,Habido,99180
+10654975302,65497530,Claudio Bernardo,Hernandez,Torbisco,11/01/1959,No habido,66539
+10747434443,74743444,Sebastian Hipolito,Castañeda,Serrano,05/02/1950,No habido,89949
+10110585477,11058547,Waldo Alonso,Suarez,Molina,21/06/1955,Habido,70586
+20404074584,40407458,Eusebio Walter,Paredes,Valderrama,13/02/1965,No habido,61928
+20900436608,90043660,Jose Horacio,Martinez,Del Carpio,08/08/1993,Habido,59926
+20027367305,02736730,Marcelo Celso,Muente,Tasso,23/01/1955,Habido,21137
+10069115808,06911580,Humberto Augusto,Diaz,Queirolo,06/08/1990,No habido,95356
+10429785634,42978563,Cesar Gilberto,Mundaca,Benites,06/06/1960,No habido,21495
+20574238937,57423893,Eusebio Homero,Mendoza,Cueto,30/02/1986,No habido,16322
+20913662366,91366236,Waldo Renato,Zapata,Del Carpio,13/12/1958,Habido,96090
+20316439168,31643916,Ernesto Aldo,Suarez,Loayza,26/05/1977,Habido,38417
+20300781164,30078116,Ernesto Ignacio,Castañeda,Brazan,23/01/1982,Habido,90473
+20484042341,48404234,Edgar Ignacio,Mundaca,Tapullima,06/09/1956,No habido,67451
+10562440830,56244083,Jorge Frank,Talavera,Ruiz,03/03/1955,Habido,20144
+10521450082,52145008,Dante Martin,Perez,Galvez,19/01/1960,Habido,74275
+10487536392,48753639,Erick Martin,Tenorio,Arce,11/06/1985,Habido,19434
+10976274544,97627454,Jefferson Rolando,Velazco,Gutierrez,03/05/1985,No habido,18339
+10137545152,13754515,Carlos Cristobal,Saavedra,Torbisco,13/04/1971,No habido,57757
+10315032197,31503219,Waldo Orlando,Palomino,Bermudez,05/01/1952,No habido,11932
+20104413262,10441326,Cesar Frank,Olortegui,Rondon,12/12/1994,Habido,69489
+10474697612,47469761,Teofilo Andres,Mendoza,Queirolo,01/07/1974,No habido,25677
+10067623542,06762354,Sebastian Pedro,Velazco,Castro,16/11/1952,Habido,83637
+10936583596,93658359,Edgar Bruno,Ortega,Aleman,11/02/1968,No habido,74615
+20749969861,74996986,Emilio Martin,Chunga,Vallejos,11/06/1964,No habido,60354
+20577201015,57720101,Jefferson Orlando,Perez,Villanueva,04/12/1951,Habido,84524
+10618538813,61853881,Flavio Saulo,Palomino,Peña,26/01/1979,Habido,75455
+20935586839,93558683,Eusebio Rolando,Perez,Loayza,26/10/1975,Habido,59942
+10096410741,09641074,Ernesto Horacio,Mundaca,Bernal,27/12/1955,No habido,66698
+10148908614,14890861,Waldo Ezequiel,Campos,Muñoz,06/12/1994,No habido,75142
+20728380511,72838051,Angel Renato,Cordova,Vargas,18/04/1992,No habido,86773
+10375160451,37516045,Sebastian German,Castañeda,Galvez,09/05/1964,Habido,42880
+10615710577,61571057,Cesar Eugenio,Ordoñez,Ccotto,06/11/1952,Habido,82972
+10202443624,20244362,Carlos Enrique,Hernandez,Nazario,14/01/1966,Habido,63773
+20197760613,19776061,Jose Ezequiel,Velazco,Dasso,03/10/1964,Habido,84388
+20297488336,29748833,Andrés Rolando,Olortegui,Gomez,16/08/1969,Habido,88680
+10112112223,11211222,Luis Yolfer,Ortega,Peña,17/05/1969,Habido,49069
+20450272829,45027282,Fausto Orlando,Fernandez,Bermudez,22/07/1959,Habido,60148
+20693942155,69394215,David Harold,Garcia,Castro,31/12/1964,No habido,70594
+20957475116,95747511,Dante James,Pizarro,Vidal,27/01/1975,No habido,39521
+20646535687,64653568,Alberto Darwin,Tenorio,Rojas,08/11/1962,No habido,19571
+10488707217,48870721,Dennis Gilberto,Castro,Del Carpio,08/11/1972,No habido,28422
+10798838557,79883855,Mijail Bruno,Velez,Bustamante,19/03/1953,Habido,33331
+10099293456,09929345,Edgar Darwin,Tenorio,Queirolo,09/12/1989,Habido,37059
+10000053162,00005316,Manuel James,Garcia,Gomez,31/12/1973,No habido,54368
+10954843593,95484359,David Ignacio,Olortegui,Alcantara,15/01/1961,Habido,40384
+10984773581,98477358,Emilio Lorenzo,Quispe,Palza,25/03/1964,No habido,18573
+10420060405,42006040,Marco Guillermo,Garcia,Dasso,02/08/1984,No habido,26649
+20915771669,91577166,Luis Jameson,Zapata,Rojas,31/08/1992,Habido,46305
+10426302269,42630226,Jorge Jean Pierre,Fernandez,Nazario,30/04/1994,Habido,85228
+10749976598,74997659,Humberto Enrique,Porras,Bermudez,07/04/1959,Habido,23235
+10536525917,53652591,Andrés Walter,Velez,Barreto,10/10/1953,No habido,69702
+20045256278,04525627,Claudio Orlando,Saavedra,Gutierrez,26/09/1969,Habido,92168
+20608907622,60890762,Edgar Darwin,Martinez,Seminario,11/05/1955,No habido,38001
+20753853257,75385325,Sebastian Ignacio,Olortegui,Guzman,21/02/1986,No habido,31007
+20530894345,53089434,Juan Yolfer,Fernandez,Del Carpio,24/06/1972,No habido,87257
+10924568079,92456807,Edgar Jameson,Diaz,Polo,12/12/1957,Habido,58223
+20762108053,76210805,Dennis Hugo,Muente,Cueto,04/12/1974,No habido,34722
+10057372692,05737269,Fabio Fabian,Mendoza,Villanueva,14/09/1952,No habido,77756
+20636730043,63673004,Dennis Bernardo,Tenorio,Rojas,22/09/1984,No habido,72661
+20280013751,28001375,Dennis Mateo,Talavera,Cueto,12/02/1957,Habido,84850
+10475388892,47538889,Dante Eugenio,Saavedra,Rojas,08/03/1970,Habido,99332
+10815771632,81577163,Edgar Fabian,Pizarro,Ccotto,31/04/1973,No habido,95929
+20303636728,30363672,Ernesto Mateo,Chunga,Nazario,19/11/1993,Habido,90766
+20204128984,20412898,Dennis Harold,Mendez,Vidal,19/09/1976,Habido,54701
+10144404879,14440487,Jose Yolfer,Valverde,Bustamante,11/11/1959,No habido,99278
+20746317670,74631767,Dante Leonardo,Tenorio,Zavaleta,01/09/1973,Habido,72196
+20674166977,67416697,Jaime Celso,Martinez,Tasso,17/04/1954,No habido,53282
+20381250850,38125085,Alberto Aldo,Zapata,Ccotto,11/11/1955,Habido,67803
+10033401993,03340199,Felipe Mateo,Cordova,Lossio,04/08/1954,Habido,33573
+10169683718,16968371,Humberto Mateo,Talavera,Guzman,05/04/1961,No habido,86035
+20792004624,79200462,Jose Walter,Mendez,Bernal,08/01/1979,Habido,11183
+20235654663,23565466,Mijail Augusto,Mendez,Gil,05/04/1983,Habido,37475
+10079293709,07929370,Carlos Hipolito,Valverde,Peña,01/05/1986,No habido,93301
+10765202367,76520236,David Fabian,Ortega,Brazan,21/06/1973,No habido,94369
+10953239407,95323940,Flavio Pedro,Arias,Gil,16/11/1964,No habido,68798
+10926113433,92611343,Alberto Bruno,Mendez,Gutierrez,10/06/1980,Habido,80993
+20761798746,76179874,Jefferson Gilberto,Olortegui,Vidal,10/07/1982,No habido,38110
+10283455638,28345563,Mijail Bernardo,Palomino,Benites,13/09/1964,Habido,35404
+10724591645,72459164,Teofilo Enrique,Mundaca,Ruiz,28/01/1972,No habido,64945
+10209928131,20992813,Dante Elvis,Diaz,Loayza,19/01/1977,Habido,24996
+10753709788,75370978,Ernesto Calixto,Cueva,Queirolo,10/03/1965,No habido,71687
+10019323663,01932366,Marco Darwin,Campos,Rosenthal,14/04/1980,Habido,58322
+20441683091,44168309,Fausto Romulo,Pizarro,Pacheco,25/06/1957,Habido,80132
+20188241716,18824171,Alberto Yolfer,Velazco,Bermudez,15/01/1991,No habido,71219
+20229401298,22940129,Emilio Orlando,Ordoñez,Loayza,20/12/1963,No habido,77232
+10662728693,66272869,Humberto James,Mundaca,Ruiz,06/04/1987,No habido,43746
+20242989872,24298987,Andrés Calixto,Diaz,Torbisco,01/11/1960,Habido,22485
+20007972534,00797253,Sebastian Walter,Fernandez,Zavaleta,04/11/1993,No habido,96745
+10597051021,59705102,Jaime Yolfer,Castañeda,Bustamante,22/10/1951,No habido,73275
+10859450468,85945046,Jorge Guillermo,Mendoza,Valderrama,02/03/1977,Habido,90925
+20804711594,80471159,David Mateo,Hernandez,Tapia,11/04/1981,No habido,29082
+10800142983,80014298,Alberto Jean Carlo,Arevalo,Plascencia,18/12/1953,No habido,17022
+20067063861,06706386,Carlos Mateo,Hernandez,Nazario,15/02/1952,Habido,34638
+20505915524,50591552,Mario Fulgencio,Suarez,Zubiate,06/09/1971,No habido,98439
+20244389656,24438965,Jorge Victor,Diaz,Heresi,23/08/1964,Habido,34485
+20451303746,45130374,Dante Hugo,Ortega,Dasso,19/06/1960,Habido,16616
+20933769146,93376914,Francisco Ezequiel,Talavera,Azabache,13/07/1992,Habido,25976
+10219494620,21949462,Juan Frank,Porras,Alva,12/02/1968,Habido,10396
+20938332738,93833273,Waldo German,Talavera,Azabache,13/01/1977,Habido,78508
+10133423609,13342360,Sebastian Mateo,Arias,Alcantara,09/08/1973,No habido,14588
+10434529534,43452953,Eduardo Alonso,Talavera,Ruiz,06/03/1974,No habido,80212
+10827294349,82729434,Cesar German,Paredes,Zavaleta,01/02/1974,Habido,19684
+10514532417,51453241,Fabio Fulgencio,Guerrero,Polo,09/01/1967,Habido,86789
+10919090076,91909007,Sebastian Saulo,Mendez,Azabache,23/05/1976,Habido,76847
+20712261483,71226148,Flavio Yolfer,Tenorio,Del Carpio,02/01/1983,Habido,34806
+20105296390,10529639,Jefferson Gilberto,Velez,Rosenthal,01/09/1984,Habido,69188
+10781825837,78182583,Ernesto Bruno,Chunga,Serrano,31/04/1976,No habido,92223
+10546153067,54615306,Erick German,Arevalo,Cueto,19/02/1951,No habido,38231
+20692673720,69267372,Erick Fabian,Zapata,Cabrera,16/08/1981,Habido,37160
+10496078447,49607844,Marcelo Horacio,Arevalo,Tapia,13/08/1974,Habido,94826
+10654190894,65419089,Edgar Jameson,Perez,Brazan,31/04/1979,No habido,13965
+10682228362,68222836,Miguel Bruno,Guerrero,Gutierrez,24/05/1968,No habido,74465
+10419692171,41969217,Francisco Saulo,Zapata,Bernaola,25/02/1984,Habido,40665
+10040657770,04065777,Fernando Yolfer,Quispe,Seminario,07/06/1951,Habido,29010
+20889042362,88904236,André Homero,Palomino,Torbisco,22/08/1983,Habido,30107
+20909819826,90981982,Robert Ignacio,Mendez,Molina,01/06/1992,No habido,87984
+10223803482,22380348,Felipe Steve,Palomino,Zavaleta,31/06/1953,Habido,99628
+20913462120,91346212,Dante Rolando,Velazco,Julca,15/02/1963,No habido,14422
+10600817770,60081777,Juan Calixto,Paredes,Rios,30/09/1951,Habido,95266
+10008185239,00818523,Jose Victor,Zapata,Bernaola,20/02/1968,Habido,10393
+10724383861,72438386,Marco James,Ordoñez,Alva,03/04/1962,Habido,38115
+20704626135,70462613,Christian German,Muente,Julca,25/12/1970,Habido,58481
+20336111508,33611150,Fausto Pedro,Hernandez,Arce,07/11/1979,Habido,94105
+10374108539,37410853,Waldo Nicolas,Saavedra,Azabache,03/05/1956,No habido,15686
+10128362138,12836213,Marco Jesus,Porras,Lossio,01/04/1982,Habido,72848
+10754597450,75459745,Waldo Frank,Suarez,Guzman,21/03/1967,Habido,89660
+20898115980,89811598,Eusebio Eugenio,Castro,Torbisco,28/07/1961,No habido,22529
+20703571293,70357129,Cesar Ignacio,Garcia,Queirolo,02/03/1990,No habido,96238
+10007481757,00748175,Juan Jameson,Arevalo,Serrano,24/10/1983,Habido,27672
+10599145877,59914587,Erick Gilberto,Palomino,Gomez,03/07/1985,Habido,43667
+20763607853,76360785,Erick Homero,Mendoza,Chavez,09/09/1972,Habido,49192
+10278258526,27825852,Juan Harold,Martinez,Brazan,17/06/1955,No habido,31780
+10358350438,35835043,Flavio Victor,Arias,Molina,05/01/1953,Habido,44575
+20313299138,31329913,Teofilo Aldo,Castañeda,Polo,10/08/1992,Habido,90894
+20796947662,79694766,Francisco Romulo,Mendez,Palza,23/10/1953,No habido,90862
+10202540720,20254072,Mijail Homero,Guerrero,Ccotto,19/04/1975,Habido,32127
+20991427131,99142713,Eduardo Leonardo,Paredes,Loayza,28/05/1979,No habido,66237
+20123678025,12367802,Humberto Bruno,Mendoza,Guzman,13/09/1977,Habido,60998
+20907733880,90773388,Jefferson Augusto,Mendoza,More,23/06/1953,No habido,38341
+10825426866,82542686,Angel Eugenio,Perez,Cabrera,11/01/1970,Habido,91891
+20882532351,88253235,Angel Cristobal,Arias,Plascencia,24/05/1974,Habido,72515
+20703177862,70317786,Miguel Martin,Mendez,Palza,26/03/1989,Habido,19532
+10568453694,56845369,Angel Cayetano,Castro,Villanueva,31/05/1964,No habido,83285
+20218571918,21857191,Miguel Jean Pierre,Olortegui,Peña,30/10/1988,No habido,13223
+10893021871,89302187,Juan Enrique,Suarez,Aleman,18/04/1970,No habido,66923
+20044562425,04456242,Luis Gilberto,Martinez,Tasso,05/10/1964,No habido,79780
+20610676953,61067695,André Hipolito,Cueva,Peña,22/11/1959,Habido,92776
+10981786367,98178636,Teofilo Steve,Quispe,Bernal,16/02/1975,Habido,61209
+20537082618,53708261,Manuel Homero,Pizarro,Polo,14/02/1980,Habido,30880
+20821092456,82109245,Manuel Orlando,Campos,Barreto,03/04/1978,Habido,86021
+10921052705,92105270,Manuel Enrique,Porras,Castro,24/09/1955,Habido,34765
+10766700914,76670091,Daniel Jesus,Muente,Alcantara,09/08/1951,No habido,35326
+10350990866,35099086,Carlos Jean Carlo,Castro,Aleman,16/09/1965,Habido,93725
+10475761782,47576178,Eusebio Jesus,Quispe,Salcedo,20/01/1963,Habido,58189
+10951129712,95112971,Daniel Guillermo,Diaz,Ccotto,26/07/1979,No habido,52342
+10122311391,12231139,Flavio Cristobal,Mundaca,Bernaola,04/03/1955,No habido,91175
+20810149569,81014956,Fernando Victor,Porras,Castro,12/10/1989,No habido,17420
+20695736514,69573651,Jefferson Frank,Castro,Arce,28/09/1990,Habido,65425
+20953767053,95376705,David Frank,Talavera,Brazan,12/12/1952,Habido,59437
+10455595982,45559598,Mario Elvis,Garcia,Castro,01/12/1971,Habido,77585
+10373977891,37397789,Marco Orlando,Saavedra,Loayza,05/07/1968,Habido,15697
+20208337937,20833793,Jorge Aldo,Perez,Salcedo,30/02/1962,No habido,52747
+20353342730,35334273,Miguel Fabian,Farfan,More,01/06/1951,Habido,65120
+20273468742,27346874,Felipe Gilberto,Cueva,Pacheco,01/02/1965,No habido,15926
+10550664597,55066459,André Andres,Velazco,Vallejos,07/06/1972,No habido,45885
+20416541232,41654123,Emilio Homero,Salazar,Queirolo,21/02/1992,Habido,20661
+10840106175,84010617,Fausto Ignacio,Suarez,Salcedo,11/05/1983,No habido,95583
+20064966134,06496613,Luis Guillermo,Valverde,Tasso,14/10/1993,Habido,40711
+10624274353,62427435,Dante Mateo,Tenorio,Azabache,15/08/1961,Habido,10564
+20056504382,05650438,Daniel Celso,Guerrero,Bernaola,01/03/1986,Habido,62763
+10828167676,82816767,Felipe Orlando,Muente,Aleman,18/04/1994,No habido,78555
+10481866669,48186666,Ernesto Jean Carlo,Mendez,Vallejos,02/07/1951,Habido,74919
+20054387617,05438761,Mario Saulo,Castro,Yañez,16/04/1983,No habido,81253
+20522922860,52292286,Felipe German,Garcia,Zavaleta,30/10/1990,No habido,31008
+20290490221,29049022,Robert Eugenio,Mendoza,Vargas,18/11/1956,Habido,53482
+20189848990,18984899,Flavio Leonardo,Cordova,Serrano,10/06/1990,No habido,77670
+20179929465,17992946,Carlos Nicolas,Ordoñez,Zubiate,03/12/1958,Habido,14706
+10039574857,03957485,Emilio Jameson,Farfan,Ccotto,03/04/1957,Habido,44383
+10635705972,63570597,Emilio Mateo,Muente,Torbisco,11/12/1959,Habido,35219
+20595061507,59506150,Eduardo Fulgencio,Cueva,Molina,16/09/1970,No habido,18038
+20428652820,42865282,Angel Orlando,Cordova,Alva,15/12/1980,Habido,53762
+10593819654,59381965,Marcelo Aldo,Tenorio,Cabrera,09/03/1987,Habido,39202
+20111481455,11148145,Teofilo Elvis,Castro,Nazario,26/08/1994,No habido,78880
+10951956260,95195626,Jaime Eugenio,Cordova,Peña,27/04/1979,No habido,97039
+10226649236,22664923,Manuel Aldo,Arias,Guzman,13/10/1964,Habido,11600
+20548174514,54817451,Mijail Sergio,Arevalo,Zavaleta,22/01/1971,Habido,79072
+20024819606,02481960,Waldo Orlando,Mendoza,Yañez,24/01/1980,Habido,63169
+10793167672,79316767,Jaime German,Hernandez,Vargas,05/10/1966,No habido,79071
+10245589869,24558986,Teofilo Victor,Talavera,Bermudez,26/02/1962,Habido,87272
+20948236223,94823622,Francisco Cayetano,Velazco,Guzman,18/09/1976,Habido,62596
+10251286004,25128600,Robert Mateo,Paredes,Serrano,14/12/1953,Habido,37431
+20925689304,92568930,Felipe Hugo,Perez,Alcantara,27/10/1973,No habido,10406
+20824810876,82481087,Eduardo Hugo,Suarez,Gomez,15/06/1992,No habido,32188
+10096425788,09642578,Marco Romulo,Chunga,Queirolo,22/08/1955,No habido,50540
+20507210853,50721085,Felipe Fulgencio,Ortega,Galvez,15/08/1967,Habido,33371
+10179432349,17943234,Jose Augusto,Valverde,Peña,21/11/1952,No habido,14211
+10401118267,40111826,Fausto Harold,Castañeda,Vallejos,24/07/1972,Habido,92256
+10691008935,69100893,Jefferson Darwin,Velez,Vallejos,26/10/1967,No habido,42563
+20797774045,79777404,Humberto Ricardo,Chunga,Palza,08/08/1953,No habido,74104
+10194112274,19411227,Eduardo Gilberto,Arias,Del Carpio,11/11/1953,No habido,33465
+10282120086,28212008,Erick Ricardo,Zapata,Vallejos,21/03/1993,Habido,10334
+10157559091,15755909,Jaime Darwin,Tenorio,Alva,15/06/1965,Habido,12386
+20511238229,51123822,Christian Orlando,Talavera,Nazario,16/05/1974,Habido,45306
+10158410571,15841057,Jose Bernardo,Ordoñez,Julca,13/02/1980,Habido,29528
+20819536765,81953676,Jaime Romulo,Arevalo,Villanueva,14/01/1961,Habido,63841
+20781809967,78180996,Alberto Rolando,Pizarro,Barreto,07/06/1961,Habido,50874
+10706567522,70656752,Ernesto Horacio,Cueva,Del Carpio,17/10/1980,No habido,71091
+20226018559,22601855,Miguel Aldo,Muente,Vallejos,29/08/1967,No habido,81940
+20080429328,08042932,Jorge Orlando,Arias,Heresi,11/02/1991,Habido,76573
+20977731228,97773122,Dante Guillermo,Suarez,Alva,24/02/1964,No habido,51801
+10033237341,03323734,Alberto James,Zapata,Loayza,28/12/1972,No habido,31900
+10802162855,80216285,Juan James,Olortegui,Cueto,27/02/1963,Habido,96501
+20856448074,85644807,Andrés Lorenzo,Olortegui,Torbisco,01/03/1952,Habido,11361
+10986312451,98631245,Flavio James,Cordova,Nazario,09/03/1969,No habido,82551
+20539886481,53988648,Angel Romulo,Paredes,Nazario,06/03/1976,No habido,24905
+10508376338,50837633,Miguel Lorenzo,Cordova,Queirolo,09/08/1960,Habido,99070
+10321411749,32141174,Waldo Ignacio,Ortega,Heresi,02/12/1950,Habido,28558
+10812507458,81250745,Angel Fabian,Perez,Polo,08/06/1958,No habido,41950
+20302206968,30220696,Erick Homero,Mendez,Tapullima,02/08/1993,No habido,49085
+10852833702,85283370,Jorge Jean Carlo,Zapata,Barreto,08/08/1988,Habido,47066
+10425919138,42591913,Felipe Horacio,Muente,More,22/10/1979,No habido,84737
+10722403358,72240335,Jose German,Diaz,Tasso,01/12/1954,No habido,34200
+10600682203,60068220,Jaime Ignacio,Fernandez,Arce,22/08/1969,Habido,75741
+20746736153,74673615,Edgar Sergio,Cueva,Peña,21/07/1974,Habido,21026
+10225375919,22537591,Eduardo Frank,Zapata,Del Carpio,18/07/1968,Habido,52295
+10247502067,24750206,Claudio Salvador,Porras,Vallejos,18/07/1950,No habido,98757
+20079844279,07984427,Jorge Frank,Velez,Salcedo,22/12/1974,Habido,96614
+20134963179,13496317,Ernesto Bruno,Ordoñez,Vargas,07/10/1972,Habido,70029
+20068177491,06817749,Alberto Yolfer,Guerrero,Azabache,23/08/1975,No habido,58170
+10484630622,48463062,Ernesto Cristobal,Pizarro,Dasso,18/03/1965,Habido,79432
+20661080154,66108015,Mijail German,Velez,Bermudez,02/02/1991,No habido,33423
+10110340729,11034072,Flavio Renato,Olortegui,Polo,24/11/1953,No habido,77666
+20773855764,77385576,Luis Eugenio,Paredes,Rios,29/01/1985,Habido,90845
+20518968275,51896827,David Steve,Velez,Vargas,14/09/1991,Habido,33276
+20650204709,65020470,Eusebio Saulo,Campos,Torbisco,14/08/1971,No habido,20113
+20993727630,99372763,Edgar Gilberto,Garcia,Tasso,26/11/1976,Habido,75927
+10811563336,81156333,Cesar German,Ortega,Bermudez,17/12/1975,No habido,65243
+10687475800,68747580,Ernesto Saulo,Salazar,Tasso,03/01/1979,No habido,69613
+20977525901,97752590,Fabio Harold,Arias,Vallejos,27/05/1972,No habido,22979
+20343742616,34374261,Carlos Elvis,Tenorio,Nazario,04/11/1952,Habido,71315
+20487666492,48766649,Mario Elvis,Paredes,Bernaola,17/10/1985,Habido,98636
+20731558562,73155856,Erick Enrique,Valverde,Del Carpio,07/02/1978,No habido,50696
+10626105246,62610524,Erick Edmundo,Farfan,Loayza,05/11/1988,No habido,88358
+20213450146,21345014,Manuel James,Martinez,Molina,10/08/1964,Habido,18658
+10834365380,83436538,Waldo Jesus,Garcia,Rios,17/12/1951,No habido,36023
+20097097542,09709754,Emilio Enrique,Quispe,Torbisco,21/05/1992,Habido,95778
+20542469092,54246909,Flavio Lorenzo,Mundaca,Castro,26/04/1988,No habido,71917
+20289565574,28956557,Sebastian Salvador,Ordoñez,Luna,03/12/1967,Habido,12813
+20447598795,44759879,Sebastian Cristobal,Palomino,Vidal,29/08/1981,No habido,11474
+10478751842,47875184,Humberto Aldo,Quispe,Del Carpio,08/01/1958,Habido,95755
+10811477069,81147706,David Guillermo,Mundaca,Queirolo,19/06/1994,No habido,69247
+10864032645,86403264,Fernando Martin,Fernandez,Brazan,29/11/1961,No habido,68044
+10035814181,03581418,Angel German,Velazco,Tapullima,07/08/1962,Habido,99570
+20578009204,57800920,David Alejandro,Olortegui,Cueto,14/10/1972,Habido,24393
+10914144466,91414446,Fernando Celso,Olortegui,Pacheco,03/05/1986,No habido,46193
+20526329759,52632975,David Frank,Castañeda,Serrano,23/03/1974,Habido,85089
+10263727888,26372788,Waldo Homero,Muente,Heresi,18/09/1963,Habido,78679
+20034322789,03432278,Carlos Bruno,Velazco,Loayza,02/03/1962,No habido,61205
+20838441319,83844131,David Steve,Mundaca,Yañez,05/05/1966,Habido,92854
+10209580591,20958059,Christian Ricardo,Salazar,Aleman,23/09/1978,No habido,54805
+10418398210,41839821,Angel Martin,Valverde,Rosenthal,08/09/1974,No habido,83143
+20982644855,98264485,Dennis Frank,Muente,Seminario,25/07/1955,Habido,79843
+20240466029,24046602,André Aldo,Porras,Peña,25/09/1960,Habido,71039
+10792428293,79242829,André Sergio,Muente,Zubiate,03/01/1960,Habido,44481
+10206445034,20644503,Felipe Saulo,Guerrero,Ccotto,30/08/1974,Habido,89751
+20154344017,15434401,Jorge Lorenzo,Fernandez,Salcedo,06/12/1983,No habido,17161
+10328586530,32858653,Mijail Horacio,Ortega,Bonilla,16/01/1991,Habido,15739
+20624743801,62474380,Mijail Lorenzo,Valverde,Queirolo,06/06/1964,Habido,19168
+10673180634,67318063,Andrés James,Chunga,Alva,30/06/1968,Habido,29636
+20449539791,44953979,Felipe Jean Pierre,Salazar,Dasso,08/11/1980,No habido,51022
+20736955976,73695597,Fernando Leonardo,Castro,Bernal,04/01/1990,Habido,28512
+10467419173,46741917,David Yolfer,Castro,Alva,21/08/1974,No habido,13642
+20431885875,43188587,André Frank,Cueva,Gil,06/10/1956,Habido,20392
+20076680318,07668031,Carlos Jesus,Velez,Aleman,15/01/1980,No habido,89344
+20764927578,76492757,Marco Alonso,Castro,Rosenthal,08/04/1957,Habido,31308
+10975581607,97558160,Erick Leonardo,Cordova,Tasso,24/12/1979,No habido,11392
+20978689912,97868991,Jorge Darwin,Velazco,Torbisco,29/09/1987,No habido,82002
+10291935058,29193505,Mario Gilberto,Arevalo,Alva,28/10/1984,Habido,31260
+20250958490,25095849,Manuel Hipolito,Castañeda,Ccotto,29/12/1974,Habido,98874
+10696607114,69660711,Claudio Walter,Olortegui,Nazario,01/03/1966,Habido,71914
+20573541178,57354117,Jaime Frank,Tenorio,Yañez,19/03/1981,No habido,29640
+20012902136,01290213,Jorge Elvis,Castro,Alva,30/10/1992,Habido,69048
+20127281418,12728141,Fausto Salvador,Muente,Ruiz,22/02/1975,Habido,53548
+20517833419,51783341,Dennis Saulo,Talavera,Cueto,15/12/1955,Habido,58283
+10542165914,54216591,Fernando Yolfer,Diaz,Brazan,08/04/1952,No habido,31701
+20686630203,68663020,Humberto Yolfer,Campos,Tapullima,26/10/1954,Habido,52658
+20077304258,07730425,Fausto Hugo,Ortega,Valderrama,29/10/1990,Habido,69966
+10950213485,95021348,Waldo Augusto,Pizarro,Gomez,02/09/1992,Habido,25917
+20405944136,40594413,Andrés Andres,Arias,Loayza,14/06/1993,Habido,11004
+20583312616,58331261,Alberto Cayetano,Arias,Plascencia,09/11/1977,No habido,23583
+20484119564,48411956,Teofilo Jameson,Chunga,Gomez,10/01/1968,Habido,13759
+10601618783,60161878,Jefferson Bruno,Mendez,Galvez,14/06/1992,No habido,10925
+10789731755,78973175,Eduardo Hugo,Valverde,Gil,04/03/1955,No habido,48890
+10753160572,75316057,Fabio Guillermo,Campos,Gutierrez,25/05/1979,Habido,19503
+10393576938,39357693,Andrés Frank,Cordova,Azabache,08/09/1972,Habido,34349
+10198481232,19848123,Eduardo Victor,Quispe,Yañez,08/05/1986,Habido,77002
+20342077115,34207711,Jorge Andres,Mendoza,Ccotto,18/10/1950,No habido,67485
+20742041487,74204148,Fernando Martin,Arevalo,Gil,25/09/1950,No habido,13506
+20966417105,96641710,Andrés Guillermo,Ortega,Alcantara,20/05/1967,No habido,29291
+10678387433,67838743,Claudio Calixto,Garcia,Queirolo,06/04/1967,No habido,77558
+10534471991,53447199,Manuel Hugo,Ortega,Lossio,09/05/1953,No habido,14843
+20750263003,75026300,Jose Andres,Saavedra,Vidal,25/01/1971,Habido,37178
+10563219578,56321957,Daniel Fulgencio,Chunga,Yañez,02/06/1980,No habido,51933
+20077195165,07719516,Juan Jameson,Farfan,Seminario,11/09/1974,Habido,51061
+10986402215,98640221,Jose Lorenzo,Suarez,Rondon,20/05/1992,No habido,41203
+10872761153,87276115,Eusebio Darwin,Castañeda,Serrano,13/02/1970,No habido,88481
+20998092427,99809242,Marcelo Ezequiel,Guerrero,Tapia,09/03/1980,Habido,66437
+20408322578,40832257,Fabio Aldo,Perez,Cabrera,27/05/1983,Habido,64445
+20669602074,66960207,Jose Martin,Farfan,Del Carpio,17/05/1983,No habido,16978
+10258940916,25894091,Humberto Leonardo,Castro,Rojas,14/01/1966,No habido,29035
+10038816691,03881669,Emilio Ignacio,Palomino,Tapia,05/04/1988,No habido,80530
+20981361043,98136104,Jorge Cayetano,Saavedra,Rondon,13/02/1993,No habido,74736
+10725088570,72508857,Claudio Cayetano,Porras,Vargas,27/02/1993,Habido,51053
+10109072858,10907285,Fabio Cristobal,Ordoñez,Polo,10/06/1973,Habido,74785
+20748168041,74816804,Marco Yolfer,Ortega,Palza,04/12/1988,No habido,81070
+20519804548,51980454,Alberto Cayetano,Valverde,Del Carpio,28/01/1966,Habido,86685
+20235022867,23502286,Christian Romulo,Garcia,Ruiz,30/11/1953,No habido,82926
+20252962467,25296246,Flavio Orlando,Mendoza,Seminario,03/11/1960,Habido,88816
+10000515299,00051529,Daniel Enrique,Farfan,Bonilla,29/06/1978,No habido,76022
+10355652198,35565219,Eusebio Horacio,Guerrero,Seminario,16/11/1958,No habido,62515
+20472059400,47205940,Fausto Mateo,Suarez,Castro,27/01/1967,Habido,26725
+10122045204,12204520,Eduardo Jean Carlo,Quispe,Rosenthal,01/12/1982,Habido,61608
+10445886670,44588667,Humberto Alejandro,Velazco,Azabache,03/05/1965,Habido,53086
+20267285038,26728503,Mijail Alejandro,Cordova,Castro,03/10/1961,No habido,96813
+20122149007,12214900,Dante Saulo,Chunga,Cueto,08/06/1991,No habido,52982
+20192773220,19277322,Mijail Fulgencio,Velez,Castro,10/12/1972,No habido,44339
+20416658867,41665886,Luis Bruno,Campos,Dasso,30/09/1984,No habido,25398
+20414668764,41466876,David Horacio,Porras,Yañez,10/01/1956,No habido,38837
+20628484637,62848463,Jose Ezequiel,Perez,Zavaleta,02/02/1966,Habido,54544
+20938535974,93853597,Eusebio Calixto,Martinez,Tasso,18/06/1979,No habido,23105
+20851329615,85132961,Francisco Guillermo,Velazco,Tapullima,31/07/1985,Habido,59731
+10777783338,77778333,Emilio Salvador,Perez,Azabache,26/11/1960,No habido,34383
+10886034297,88603429,Luis Pedro,Muente,Bermudez,13/05/1977,Habido,64767
+10873068219,87306821,Fabio Salvador,Arevalo,Arce,06/04/1983,No habido,58115
+20125041225,12504122,Fabio Guillermo,Garcia,Bernaola,01/08/1975,Habido,85996
+20392487398,39248739,Francisco Martin,Garcia,Aleman,21/04/1958,No habido,31429
+10352517842,35251784,Dennis Jean Pierre,Chunga,Polo,19/10/1962,No habido,48671
+20520622031,52062203,André Salvador,Zapata,Barreto,18/09/1970,Habido,36350
+10069254878,06925487,Flavio Victor,Talavera,Vargas,07/10/1985,Habido,45619
+20957850602,95785060,Eduardo Bernardo,Muente,Rojas,25/11/1970,Habido,86412
+20744251153,74425115,Juan Martin,Paredes,Guerra,18/09/1987,Habido,12716
+20535882628,53588262,Eusebio Nicolas,Velez,Loayza,27/11/1983,Habido,43163
+20707057073,70705707,André Fulgencio,Suarez,Guerra,13/01/1959,Habido,18419
+20163933336,16393333,Alberto Sergio,Arias,Rojas,23/12/1963,Habido,96207
+10214365205,21436520,Claudio Jean Carlo,Pizarro,Luna,17/11/1991,Habido,71700
+20542932209,54293220,Angel Andres,Perez,Tapia,19/03/1982,Habido,55987
+10666015257,66601525,Daniel Jean Pierre,Olortegui,Gomez,27/10/1962,No habido,31823
+10794944736,79494473,Eusebio Fulgencio,Valverde,Tapullima,27/03/1985,No habido,97620
+20249267688,24926768,Daniel Nicolas,Castañeda,Salcedo,08/02/1959,No habido,52923
+20879249984,87924998,Christian Ricardo,Arevalo,Vidal,29/05/1977,Habido,68968
+10367649306,36764930,Sebastian Guillermo,Olortegui,Ruiz,06/05/1966,Habido,33755
+10497396427,49739642,Erick Edmundo,Guerrero,Heresi,07/05/1963,Habido,40351
+20981824776,98182477,Teofilo Leonardo,Diaz,Gil,03/03/1991,Habido,89535
+20865762225,86576222,Marcelo Renato,Cordova,Gomez,22/08/1953,Habido,99615
+20071421458,07142145,Angel Aldo,Velazco,Azabache,24/05/1972,Habido,84841
+20095492039,09549203,Francisco Fabian,Zapata,Nazario,14/04/1969,No habido,54140
+10872452945,87245294,Robert Romulo,Olortegui,Cabrera,04/05/1955,No habido,65360
+10536296516,53629651,Flavio Bernardo,Suarez,Rondon,08/04/1960,Habido,95050
+10404409209,40440920,Eduardo Alonso,Tenorio,Tasso,04/04/1953,No habido,56487
+10578864871,57886487,Erick Rolando,Mundaca,Ruiz,17/07/1967,No habido,95030
+20783078283,78307828,Fausto Steve,Martinez,Rosenthal,05/06/1967,No habido,14396
+10297958032,29795803,Jorge Victor,Ortega,Bonilla,05/10/1978,Habido,75013
+10501491011,50149101,Christian Enrique,Ortega,Aleman,30/09/1993,No habido,65857
+20271340124,27134012,Felipe Ignacio,Palomino,Benites,09/02/1961,Habido,89073
+10801803485,80180348,Emilio Andres,Pizarro,Yañez,14/09/1953,Habido,96725
+20870309597,87030959,Mijail Cayetano,Castro,Julca,18/10/1986,No habido,21375
+20166113204,16611320,Ernesto Lorenzo,Cueva,Bermudez,31/11/1959,No habido,55956
+10525948095,52594809,Cesar Hipolito,Pizarro,Galvez,08/11/1981,Habido,55011
+10816553533,81655353,Jorge Yolfer,Hernandez,Tapia,17/01/1984,No habido,75311
+10865174189,86517418,Erick Jean Pierre,Olortegui,Galvez,28/11/1951,Habido,21754
+10243006331,24300633,André Augusto,Olortegui,Galvez,27/03/1964,No habido,77701
+20093990131,09399013,Cesar Enrique,Zapata,Brazan,18/03/1982,No habido,12359
+10304066137,30406613,Cesar Yolfer,Salazar,Bonilla,12/11/1966,No habido,45831
+20030933777,03093377,Edgar Alejandro,Mendez,Serrano,14/08/1976,Habido,46036
+10164430524,16443052,Alberto Alonso,Campos,Tapia,02/05/1954,Habido,95907
+10095831376,09583137,Cesar Mateo,Garcia,Benites,14/05/1994,Habido,39571
+10123460919,12346091,Ernesto Jean Carlo,Valverde,Villanueva,23/12/1977,Habido,43061
+10659691591,65969159,Christian Rolando,Suarez,Ruiz,01/04/1964,No habido,42719
+10865005756,86500575,Flavio Homero,Arevalo,Gomez,31/12/1977,Habido,93997
+20364675936,36467593,Carlos Gilberto,Diaz,Polo,11/11/1964,No habido,67156
+10394445206,39444520,Francisco Jean Carlo,Zapata,Lossio,28/08/1976,Habido,25379
+20471299465,47129946,Teofilo Harold,Hernandez,Tasso,04/12/1985,Habido,90936
+20927267600,92726760,Robert Renato,Diaz,Nazario,23/03/1982,Habido,75102
+20633528122,63352812,Ernesto Augusto,Talavera,Alva,10/01/1982,Habido,57110
+10643276550,64327655,Jaime James,Mundaca,Vallejos,03/01/1958,No habido,88745
+20739176390,73917639,Marco Cristobal,Campos,Alcantara,23/07/1970,Habido,75565
+20690889963,69088996,Marco Elvis,Zapata,Villanueva,20/07/1991,Habido,79609
+10134762041,13476204,Emilio Mateo,Saavedra,Luna,24/03/1964,Habido,20733
+20139202652,13920265,Marco Ignacio,Porras,Cabrera,12/10/1976,No habido,31523
+10883054888,88305488,Angel Hugo,Fernandez,Bernaola,21/10/1976,Habido,24428
+10359887532,35988753,Fernando Yolfer,Diaz,Villanueva,26/05/1985,Habido,33304
+20735039981,73503998,Daniel Lorenzo,Fernandez,Zavaleta,02/09/1984,Habido,29648
+20266452169,26645216,Emilio Nicolas,Pizarro,Zubiate,28/02/1985,No habido,25208
+20193190038,19319003,Jaime Mateo,Arias,Luna,13/10/1971,Habido,86392
+10957218778,95721877,Ernesto Martin,Talavera,Serrano,23/04/1966,Habido,17876
+20622442977,62244297,Alberto Homero,Saavedra,Gomez,13/02/1987,No habido,14012
+10361450436,36145043,Mijail Nicolas,Arevalo,Zubiate,04/06/1984,Habido,83909
+20954370247,95437024,Ernesto Orlando,Mendoza,Palza,02/05/1967,No habido,90196
+20036602513,03660251,Eusebio Leonardo,Saavedra,Cabrera,20/05/1957,Habido,33742
+20696114565,69611456,Fausto Jean Pierre,Perez,Zavaleta,17/09/1971,Habido,87915
+10979475620,97947562,Marcelo Cristobal,Velazco,Zavaleta,10/03/1976,Habido,31426
+20838659813,83865981,Carlos Alejandro,Velez,Barreto,07/09/1967,Habido,64359
+10464711957,46471195,Ernesto Pedro,Perez,Vallejos,19/06/1956,No habido,70726
+20994441434,99444143,Robert Romulo,Mendez,Chavez,24/10/1975,Habido,91772
+10984613039,98461303,Mijail Jean Pierre,Perez,Castro,25/12/1982,No habido,40660
+10010192644,01019264,Cesar Salvador,Garcia,Seminario,16/02/1963,Habido,75260
+20315421717,31542171,Humberto Celso,Velez,Torbisco,27/12/1987,Habido,39592
+20895776804,89577680,Dante Fulgencio,Velez,Tapia,17/09/1985,Habido,28266
+10155120421,15512042,Eusebio Frank,Diaz,Barreto,25/01/1962,No habido,98961
+20228419528,22841952,Marcelo Harold,Arias,Azabache,16/10/1956,Habido,87893
+20146095137,14609513,Jefferson Jean Pierre,Farfan,Valderrama,11/04/1990,Habido,36880
+20318302451,31830245,André Hugo,Tenorio,Bernaola,02/01/1986,No habido,14154
+10437936988,43793698,Luis Lorenzo,Pizarro,Pacheco,30/08/1958,No habido,10440
+20409945548,40994554,Flavio Celso,Pizarro,Del Carpio,16/06/1976,No habido,23622
+20640394293,64039429,Sebastian Saulo,Velazco,Luna,30/08/1974,No habido,83752
+20508471780,50847178,Eusebio Saulo,Martinez,Serrano,14/05/1953,No habido,22548
+20506645620,50664562,Robert Bernardo,Arevalo,Alcantara,07/02/1965,Habido,46071
+20210288892,21028889,Daniel Andres,Castañeda,Molina,07/07/1951,No habido,38737
+10443338457,44333845,Marcelo Ignacio,Hernandez,Vallejos,27/01/1979,No habido,52810
+10478043177,47804317,Mijail Ignacio,Mendez,Del Carpio,22/11/1962,No habido,77736
+10974325571,97432557,Marcelo Frank,Paredes,Nazario,01/08/1975,No habido,30091
+10882002743,88200274,Teofilo Victor,Arias,Loayza,31/04/1978,Habido,99358
+20053372313,05337231,Jorge Frank,Suarez,Alcantara,30/02/1977,No habido,15734
+20695473058,69547305,André Ignacio,Arevalo,Lossio,26/07/1982,Habido,18900
+10612073893,61207389,Francisco Frank,Tenorio,Barreto,05/10/1983,No habido,83622
+20675485823,67548582,Alberto Romulo,Porras,Salcedo,25/09/1969,No habido,97210
+10975029788,97502978,Cesar Steve,Cordova,Muñoz,03/02/1950,No habido,75596
+20478481448,47848144,Edgar Leonardo,Farfan,Loayza,06/02/1988,No habido,34618
+20326793918,32679391,Fernando Elvis,Pizarro,Polo,12/04/1985,Habido,38556
+10477717096,47771709,Sebastian Martin,Palomino,Tapia,23/08/1956,No habido,73894
+20135865864,13586586,Eduardo Victor,Ordoñez,Castro,21/11/1977,No habido,72906
+10737007479,73700747,Marcelo Lorenzo,Mendoza,Zubiate,16/01/1970,Habido,31740
+10991387976,99138797,Flavio Homero,Hernandez,Zubiate,18/06/1983,Habido,45238
+20623679438,62367943,David Hipolito,Cueva,Cabrera,13/12/1979,Habido,24932
+10338092075,33809207,Luis Lorenzo,Saavedra,Bernal,15/09/1992,No habido,56188
+20405345229,40534522,Edgar Cayetano,Porras,Alva,30/04/1984,No habido,96365
+20585741753,58574175,Dennis Elvis,Muente,Molina,06/04/1961,No habido,84224
+20950040017,95004001,Dante Ignacio,Salazar,Bonilla,03/01/1962,No habido,88482
+20168761486,16876148,Angel Hipolito,Cordova,Bonilla,25/07/1956,No habido,79847
+20363888115,36388811,Jose Harold,Muente,Vargas,31/08/1984,No habido,50285
+10228807182,22880718,Cesar Walter,Pizarro,Brazan,21/09/1970,No habido,44048
+20983090005,98309000,Eusebio Edmundo,Cueva,Bonilla,21/11/1982,No habido,97729
+10041703685,04170368,Marco Steve,Paredes,Alcantara,01/07/1985,No habido,40793
+20058353105,05835310,Sebastian Fabian,Porras,Loayza,27/01/1977,Habido,21830
+10518352662,51835266,Fabio Bernardo,Paredes,Vidal,12/10/1994,Habido,34695
+20569013182,56901318,David Celso,Farfan,Benites,15/12/1962,No habido,90675
+20628003617,62800361,Manuel Alonso,Mendoza,Arce,03/05/1975,Habido,26554
+10196296588,19629658,Jefferson Saulo,Hernandez,Aleman,29/06/1961,Habido,85449
+20241380881,24138088,Jorge Sergio,Mendez,Salcedo,24/01/1975,No habido,60300
+10752737072,75273707,Alberto Horacio,Hernandez,Cueto,12/06/1971,No habido,78044
+10893375498,89337549,Erick Fulgencio,Guerrero,Rondon,24/07/1991,Habido,27361
+10712215256,71221525,Jefferson Bernardo,Cueva,Gutierrez,06/02/1980,No habido,52492
+20245854169,24585416,Sebastian James,Talavera,Rondon,04/09/1987,No habido,58093
+20359574108,35957410,Mario Lorenzo,Olortegui,Tapia,24/08/1988,No habido,13868
+10818692446,81869244,Waldo Elvis,Ortega,Bonilla,26/09/1970,Habido,75948
+20053355666,05335566,Mijail Cristobal,Ortega,Molina,09/04/1983,Habido,34056
+10267747179,26774717,Flavio James,Ordoñez,Luna,12/02/1986,No habido,49896
+20520106997,52010699,Carlos Walter,Ortega,Arce,21/07/1953,No habido,28119
+20901456906,90145690,Manuel Alejandro,Castañeda,Zavaleta,02/04/1955,No habido,14008
+20130306565,13030656,Luis Hugo,Quispe,Cabrera,13/02/1986,Habido,12093
+20526118208,52611820,Edgar Jean Pierre,Salazar,Tasso,01/04/1994,Habido,73999
+20149431420,14943142,Marcelo Hipolito,Olortegui,Rojas,18/08/1976,No habido,36236
+20121926479,12192647,Sebastian Jesus,Garcia,Arce,12/09/1954,No habido,18416
+20603327550,60332755,David Pedro,Cueva,Molina,27/08/1951,Habido,59420
+10144548239,14454823,Sebastian Sergio,Velazco,Brazan,29/02/1989,No habido,45993
+10346511222,34651122,Dennis Leonardo,Zapata,Bermudez,27/02/1979,No habido,25315
+20621957448,62195744,Cesar Nicolas,Muente,Bernaola,12/11/1994,No habido,15603
+20732777828,73277782,Cesar Bruno,Chunga,Dasso,09/12/1979,No habido,32620
+20455954723,45595472,Christian Fabian,Castro,Vargas,14/08/1963,No habido,41776
+10189255539,18925553,Robert Pedro,Garcia,Bermudez,17/10/1958,No habido,29389
+20139022585,13902258,Fernando Harold,Martinez,Aleman,31/07/1965,Habido,90793
+20022069591,02206959,Luis Elvis,Mundaca,Dasso,10/07/1965,No habido,38041
+10060556509,06055650,Dante Leonardo,Mendoza,Luna,18/06/1964,No habido,81753
+10317471619,31747161,André Andres,Suarez,Rosenthal,14/02/1991,No habido,16225
+20360371725,36037172,Francisco Calixto,Suarez,Gutierrez,17/02/1966,Habido,43540
+10652992912,65299291,Dennis Bernardo,Cueva,Barreto,26/10/1964,No habido,33865
+20283860071,28386007,Humberto Bernardo,Campos,Valderrama,28/07/1975,No habido,36498
+10758102024,75810202,Eusebio Ezequiel,Tenorio,Yañez,03/12/1973,No habido,67506
+20231333064,23133306,André Calixto,Arias,Bermudez,25/03/1952,No habido,95512
+20512498987,51249898,Robert Orlando,Farfan,Cueto,22/07/1979,No habido,20038
+10603581938,60358193,Carlos Rolando,Mundaca,Queirolo,27/12/1956,No habido,42223
+10972223677,97222367,Mijail Cristobal,Pizarro,Alva,24/10/1966,Habido,40415
+10900030301,90003030,Fernando Cristobal,Velazco,Alva,02/02/1951,Habido,22174
+10802957964,80295796,Jorge Ezequiel,Saavedra,Alcantara,05/07/1954,Habido,47496
+10511884937,51188493,David Bernardo,Castañeda,Alcantara,30/01/1974,No habido,66971
+10695417387,69541738,Edgar Gilberto,Quispe,Rojas,23/10/1964,No habido,14026
+10424286180,42428618,Manuel Guillermo,Valverde,Azabache,11/08/1956,Habido,63315
+20912068468,91206846,Juan Cristobal,Diaz,Salcedo,12/09/1959,Habido,58296
+20843318224,84331822,David German,Farfan,Molina,12/04/1958,No habido,18767
+10714011679,71401167,Claudio Ricardo,Tenorio,Guerra,06/09/1970,Habido,95433
+20520795712,52079571,Claudio Ricardo,Porras,Cabrera,25/12/1986,No habido,46440
+10080914680,08091468,Alberto Fulgencio,Cueva,Alva,30/07/1951,No habido,85911
+20428513607,42851360,Eusebio Elvis,Farfan,Heresi,14/09/1970,No habido,14470
+10843713954,84371395,Felipe Augusto,Velazco,Bonilla,19/02/1976,No habido,27262
+10440549740,44054974,Teofilo Cristobal,Velez,Plascencia,02/04/1991,Habido,48384
+20828665722,82866572,Andrés Harold,Ortega,Molina,20/02/1988,Habido,56230
+10827772166,82777216,Dennis Cayetano,Porras,Brazan,13/12/1958,Habido,66324
+20081746484,08174648,Claudio Darwin,Garcia,Torbisco,02/08/1959,Habido,25216
+10153968060,15396806,Marcelo Augusto,Tenorio,Tapullima,25/04/1992,No habido,46691
+10754868127,75486812,Christian Saulo,Mendez,Seminario,12/09/1955,Habido,74213
+10454031767,45403176,Emilio Victor,Chunga,Salcedo,20/05/1985,No habido,26403
+20279700230,27970023,Fernando Ezequiel,Muente,Tapullima,08/11/1956,Habido,37960
+10878602160,87860216,Alberto Rolando,Arevalo,Tapia,04/12/1961,Habido,39524
+10274613423,27461342,Cesar Jean Pierre,Fernandez,Ruiz,03/03/1991,Habido,29956
+20856723281,85672328,Fernando Victor,Saavedra,Serrano,23/11/1986,No habido,39364
+10525904179,52590417,Teofilo Renato,Cueva,Villanueva,30/01/1986,Habido,36261
+10101596316,10159631,Claudio Ezequiel,Hernandez,Julca,18/07/1970,No habido,79836
+20072310745,07231074,Fausto Leonardo,Mendez,Heresi,28/03/1982,Habido,73023
+10246365225,24636522,Mario Rolando,Hernandez,Lossio,28/04/1958,Habido,86078
+10313728027,31372802,Miguel Jean Carlo,Pizarro,Serrano,12/10/1960,No habido,63704
+20082199711,08219971,Flavio Ricardo,Valverde,Tasso,02/05/1964,No habido,88801
+10089264920,08926492,Dante Jean Pierre,Garcia,Vidal,03/05/1981,No habido,85885
+20737252658,73725265,Cesar Augusto,Mundaca,Barreto,02/06/1979,Habido,79306
+20784549288,78454928,Cesar Lorenzo,Martinez,Brazan,15/08/1994,No habido,76775
+10064892194,06489219,Manuel Salvador,Velez,Yañez,27/10/1982,No habido,80134
+10200393153,20039315,Manuel Fabian,Diaz,Polo,29/01/1973,Habido,61375
+20963369999,96336999,Sebastian Lorenzo,Muente,Valderrama,23/01/1993,Habido,20071
+10804099403,80409940,Edgar Yolfer,Paredes,Serrano,12/09/1956,Habido,88864
+20351454065,35145406,Fabio Ignacio,Zapata,Heresi,14/02/1971,Habido,42834
+20070134160,07013416,Eduardo Saulo,Porras,Bernal,08/08/1957,No habido,11593
+10846748969,84674896,Humberto Celso,Velazco,Luna,16/01/1989,Habido,16590
+20796045329,79604532,Angel Saulo,Pizarro,Valderrama,10/10/1966,No habido,77603
+20644587949,64458794,Erick Victor,Diaz,Guzman,30/09/1979,No habido,64915
+10082562629,08256262,Francisco Eugenio,Porras,Guerra,29/12/1984,No habido,53548
+10629850938,62985093,Mijail Renato,Perez,Bustamante,26/04/1963,Habido,40653
+20644682401,64468240,Erick Romulo,Mendoza,Cueto,20/06/1988,No habido,85896
+20138734297,13873429,Jose James,Mendez,Valderrama,12/08/1984,Habido,57538
+20841370491,84137049,Alberto Elvis,Paredes,Tapullima,11/09/1958,Habido,48526
+20278878164,27887816,Eduardo Saulo,Castañeda,Luna,19/03/1977,No habido,47771
+20099081520,09908152,Waldo Sergio,Farfan,Tapia,06/06/1979,Habido,64645
+10393429037,39342903,Cesar Ricardo,Zapata,Lossio,14/07/1959,No habido,11278
+20046925937,04692593,Fausto Darwin,Olortegui,Plascencia,17/02/1986,No habido,63435
+10637603981,63760398,Erick Alejandro,Quispe,Guzman,03/11/1980,Habido,59753
+20180373120,18037312,Humberto Cayetano,Velazco,Tasso,07/01/1956,No habido,17740
+10084136276,08413627,Christian Frank,Martinez,Azabache,22/08/1982,Habido,34244
+20938288757,93828875,Daniel Ricardo,Arias,Vargas,19/09/1953,Habido,55119
+10181005712,18100571,Luis German,Fernandez,Bonilla,13/10/1958,Habido,80964
+10401180326,40118032,Manuel Celso,Fernandez,Heresi,03/06/1970,No habido,56148
+10730809463,73080946,Francisco Andres,Guerrero,Muñoz,05/05/1994,No habido,50134
+20616370683,61637068,Felipe Leonardo,Martinez,Polo,11/03/1990,Habido,71425
+10643766915,64376691,Eduardo Frank,Perez,Rios,11/10/1984,No habido,28951
+10278587149,27858714,Daniel Mateo,Quispe,Nazario,07/10/1992,Habido,64504
+10254983277,25498327,Edgar Lorenzo,Farfan,Bustamante,06/02/1958,Habido,24310
+20771779406,77177940,Waldo Fabian,Mendez,Zubiate,04/02/1951,No habido,24062
+20000183942,00018394,Humberto Jameson,Fernandez,Julca,24/10/1973,Habido,25286
+20991679096,99167909,Flavio Edmundo,Chunga,Galvez,01/06/1978,No habido,44291
+10058411922,05841192,Humberto Frank,Ortega,Benites,30/01/1962,Habido,33832
+20340410660,34041066,Claudio Yolfer,Palomino,Benites,31/01/1953,Habido,73093
+20990339511,99033951,Ernesto Saulo,Quispe,Valderrama,24/06/1989,No habido,65254
+20435410293,43541029,Marco Pedro,Velazco,Polo,11/01/1975,No habido,21296
+20531491918,53149191,Alberto Ricardo,Velez,Benites,16/07/1956,No habido,57546
+10806002969,80600296,Eduardo Calixto,Suarez,Cueto,20/08/1992,No habido,84064
+10573048990,57304899,Claudio Calixto,Velazco,Vidal,02/04/1981,No habido,45929
+10583605189,58360518,Angel Bruno,Arias,Brazan,24/12/1972,No habido,16382
+10204222700,20422270,Mario Gilberto,Garcia,Cueto,08/09/1983,Habido,80122
+20976391942,97639194,Felipe Enrique,Salazar,Vidal,08/10/1978,No habido,38597
+20500907032,50090703,Luis Andres,Mundaca,Valderrama,19/07/1991,No habido,10647
+20536167891,53616789,Ernesto Salvador,Mendez,Palza,13/05/1957,Habido,89950
+10472294025,47229402,Luis Jesus,Pizarro,Rojas,17/10/1994,Habido,22031
+20622063532,62206353,Carlos Pedro,Tenorio,Polo,06/01/1951,Habido,92151
+10108649414,10864941,Dennis Romulo,Velazco,Guerra,12/05/1994,Habido,98101
+20155104214,15510421,Humberto Homero,Valverde,Zavaleta,26/04/1957,No habido,29856
+20218916392,21891639,Fabio Guillermo,Muente,Tasso,08/03/1985,Habido,34614
+10826578580,82657858,Waldo Martin,Muente,Del Carpio,03/10/1951,No habido,46758
+20143696726,14369672,Teofilo Mateo,Ortega,Guzman,20/01/1968,No habido,15609
+20577175165,57717516,Waldo Lorenzo,Paredes,Polo,07/05/1983,Habido,66808
+20234087408,23408740,Claudio Edmundo,Zapata,Polo,24/02/1973,No habido,93124
+20029118657,02911865,Angel Ignacio,Quispe,Gutierrez,16/03/1989,No habido,30740
+20550695497,55069549,Edgar Bruno,Guerrero,Rios,21/07/1987,Habido,11678
+10221212248,22121224,Eduardo Augusto,Saavedra,Palza,25/03/1985,Habido,82861
+20371560831,37156083,Miguel Eugenio,Paredes,Salcedo,22/11/1982,No habido,93022
+10162168732,16216873,Robert Jesus,Cueva,Ruiz,31/10/1971,Habido,51482
+20861009761,86100976,Flavio Romulo,Guerrero,Tapullima,04/07/1987,No habido,51813
+10316832327,31683232,Erick Salvador,Castro,Gutierrez,07/05/1986,No habido,20046
+10628664163,62866416,Eduardo Guillermo,Mendez,Polo,28/02/1952,No habido,14233
+10274492989,27449298,Mario Andres,Salazar,Villanueva,16/01/1977,Habido,27271
+10903053240,90305324,Claudio Victor,Paredes,Bonilla,29/02/1977,Habido,88479
+20322793375,32279337,Francisco Alonso,Talavera,Palza,18/08/1979,Habido,84265
+20641984124,64198412,Mario Ricardo,Castro,Rios,04/03/1973,No habido,79093
+20473213219,47321321,Mijail Pedro,Valverde,Vallejos,31/05/1955,No habido,36859
+10827016277,82701627,Claudio Hugo,Olortegui,Rondon,29/04/1953,Habido,29277
+10672098194,67209819,Erick Jesus,Tenorio,Rios,29/04/1993,No habido,35043
+20245979650,24597965,Eduardo Martin,Suarez,Valderrama,07/09/1981,Habido,22823
+10065282671,06528267,Carlos Andres,Suarez,Nazario,08/07/1980,No habido,39353
+10942508656,94250865,Ernesto Homero,Palomino,Loayza,31/03/1965,No habido,93612
+10922764745,92276474,Daniel Pedro,Velez,Bernaola,26/03/1963,Habido,22747
+20344336564,34433656,Humberto Jean Carlo,Fernandez,Lossio,11/07/1975,Habido,71257
+20252328912,25232891,Dennis Fabian,Chunga,Ruiz,10/06/1990,No habido,74512
+20043009665,04300966,Cesar Elvis,Garcia,Seminario,08/08/1950,No habido,54017
+20858249843,85824984,Mijail Renato,Tenorio,Zubiate,25/05/1992,Habido,91404
+20426491099,42649109,Robert Ricardo,Suarez,Barreto,26/02/1955,No habido,94610
+10011306978,01130697,Emilio Steve,Farfan,Rondon,19/09/1987,No habido,59637
+10409933285,40993328,André Sergio,Guerrero,Galvez,05/04/1961,Habido,12370
+20457365787,45736578,Andrés Bernardo,Velazco,Brazan,10/10/1958,No habido,84693
+20731148674,73114867,Jefferson Harold,Chunga,Palza,21/05/1992,Habido,72398
+20475250847,47525084,Luis Mateo,Hernandez,Heresi,08/09/1967,Habido,47356
+10465463629,46546362,Dante Jesus,Diaz,Tapullima,08/07/1987,Habido,35404
+10813152992,81315299,Fabio Andres,Hernandez,Molina,02/03/1953,Habido,36034
+20909866638,90986663,Fausto Romulo,Porras,Dasso,27/08/1982,No habido,61440
+20148759915,14875991,Daniel Homero,Fernandez,Tapia,11/10/1962,No habido,94494
+20991779786,99177978,Dennis Enrique,Mundaca,Villanueva,11/10/1959,Habido,27614
+10752835800,75283580,Emilio Orlando,Muente,More,25/08/1988,Habido,56068
+20011404232,01140423,Mario Guillermo,Arias,Vidal,29/06/1951,No habido,95635
+10570530210,57053021,Jaime Pedro,Mendoza,Alva,19/06/1969,Habido,94898
