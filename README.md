@@ -8,7 +8,7 @@ We open the linux terminal and type this lines
 ```
 We use two different algorithms:
   - Bubble Sort
-```sh
+```pseudo
     for i := 0 to n-2 do begin
         for j := 0 to n-i-2 do begin
             if (A[j] > A[j+1]) then
@@ -17,7 +17,7 @@ We use two different algorithms:
     end
 ```
 - Shell Sort
-```sh
+```pseudo
     inc = n/2
     
     while (inc > 0) do begin
