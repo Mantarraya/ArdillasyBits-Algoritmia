@@ -22,7 +22,7 @@ We use two different algorithms:
 ```
 - Shell Sort
 ```pseudo
-    procedure Shell_Sort(A, n)
+    procedure Shell_Sort(A[], n)
     
         inc = n/2
         
