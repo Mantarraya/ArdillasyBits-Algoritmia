@@ -9,7 +9,7 @@ We open the linux terminal and type this lines
 We use two different algorithms:
   - Bubble Sort
 ```pseudo
-    function Bubble_Sort(A[], n)
+    procedure Bubble_Sort(A[], n)
     
         for i := 0 to n-2 do begin
             for j := 0 to n-i-2 do begin
@@ -18,11 +18,11 @@ We use two different algorithms:
             end
         end
         
-    end function
+    end procedure
 ```
 - Shell Sort
 ```pseudo
-    function Shell_Sort(A, n)
+    procedure Shell_Sort(A, n)
     
         inc = n/2
         
@@ -39,7 +39,7 @@ We use two different algorithms:
             inc = inc/2
         end
         
-    end function
+    end procedure
 ```
 And a search algorithm:
 - Ternary Search
